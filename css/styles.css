@@ -227,4 +227,24 @@ h1 {
     footer {
         font-size: 0.9rem;
     }
+
+    .container-start, .container-blog {
+        max-width: 100%;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    article {
+        padding: 20px 10px;
+    }
+
+    body {
+        font-size: 0.9rem;
+        line-height: 1.6;
+    }
+
+    .card-text,
+    .text-justify {
+        font-size: 0.9rem;
+    }
 }
