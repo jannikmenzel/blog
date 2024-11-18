@@ -1,4 +1,4 @@
-![Blogbild](/assets/Eine%20Leber%20aus%20dem%20Drucker.jpg)
+![Blogbild](assets/Eine%20Leber%20aus%20dem%20Drucker.jpg)
 
 # Eine Leber aus dem Drucker
 
