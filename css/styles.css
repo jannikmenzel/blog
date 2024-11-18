@@ -1,4 +1,6 @@
-/* Basis-Styling */
+/* ========================
+   Allgemeines Styling
+   ======================== */
 body {
     display: flex;
     flex-direction: column;
@@ -6,20 +8,20 @@ body {
     color: #333;
     background-color: #f8f9fa;
     min-height: 100vh;
+    margin: 0;
 }
 
-/* Maximalbreite des Inhalts */
-.container-start {
-    max-width: 69rem;
+/* ========================
+   Container für Layouts
+   ======================== */
+.container-start, .container-blog {
     margin: auto;
+    padding: 0 15px;
 }
 
-.container-blog {
-    max-width: 50rem;
-    margin: auto;
-}
-
-/* Navigation */
+/* ========================
+   Navigation
+   ======================== */
 .navbar {
     padding: 1rem;
     background-color: #354f52;
@@ -28,84 +30,117 @@ body {
     justify-content: space-between;
 }
 
-/* Profilbild in der Navbar */
 .navbar img {
     width: 40px;
     height: 40px;
 }
 
-/* Hero Section */
+/* ========================
+   Hero Section
+   ======================== */
 .hero-section {
-    background-image: url('../assets/Banner.jpg');
-    background-size: cover;
-    background-position: center;
-    padding: 100px 0;
-    color: #fff;
+    position: relative;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
+    background: linear-gradient(45deg, #9b59b6, #bd4545, #4e73df);
+    background-size: 400% 400%;
+    animation: gradientAnimation 10s ease infinite;
+    color: white;
+    padding: 0 20px;
+    overflow: hidden;
+}
+
+.hero-section h1, .hero-section p {
+    font-family: 'Montserrat', sans-serif;
+    opacity: 0;
+    animation: fadeInUp 1s forwards;
 }
 
 .hero-section h1 {
-    font-weight: 700;
-    font-size: 3rem;
-    line-height: 1.2;
-    color: #333;
+    font-weight: 600;
 }
 
 .hero-section p {
-    font-size: 1.5rem;
-    color: #555;
+    font-weight: 200;
+    animation-delay: 0.2s;
 }
 
-/* Blog Posts */
+/* Hero Section Text Animation */
+@keyframes fadeInUp {
+    0% {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Scroll Animation */
+@keyframes gradientAnimation {
+    0% {
+        background-position: 0 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0 50%;
+    }
+}
+
+/* ========================
+   Blog Cards
+   ======================== */
 .card {
     border: none;
     border-radius: 10px;
     overflow: hidden;
     transition: transform 0.2s;
     margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .card:hover {
     transform: translateY(-5px);
 }
 
-.card-img-top {
-    height: 200px;
-    object-fit: cover;
-}
-
 .card-body {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    flex-grow: 1;
     padding: 15px;
 }
 
 .card-title {
     font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.5rem;
+    margin-bottom: 10px;
     color: #222;
 }
 
 .card-text {
     font-size: 1rem;
     color: #555;
+    margin-bottom: 15px;
 }
 
-/* Buttons */
-.btn-primary {
-    align-self: flex-start;
-    background-color: #84a98c;
-    border-color: #84a98c;
+.reading-time {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: auto;
 }
 
-.btn-primary:hover {
-    background-color: #52796f;
-    border-color: #52796f;
-}
-
-/* Footer */
+/* ========================
+   Footer
+   ======================== */
 footer {
     background-color: #2f3e46;
     color: #bbb;
@@ -114,7 +149,9 @@ footer {
     margin-top: auto;
 }
 
-/* Blog Posts */
+/* ========================
+   Blog Post Styles
+   ======================== */
 article {
     max-width: 100%;
     margin: 0 auto;
@@ -130,13 +167,9 @@ h1 {
     margin-top: 20px;
 }
 
-/* Blocksatz */
-.text-justify {
-    text-align: justify;
-    hyphens: auto;
-}
-
-/* Responsives Bild */
+/* ========================
+   Responsives Design
+   ======================== */
 .img-fluid {
     width: 100%;
     height: 30vh;
@@ -144,60 +177,12 @@ h1 {
     border-radius: 10px;
 }
 
-/* Responsive Design */
-
-/* Für Tablets (Portrait und Landscape) */
-@media (max-width: 1024px) {
-    .hero-section {
-        padding: 60px 0;
-    }
-    
-    .hero-section h1 {
-        font-size: 2.5rem;
-    }
-
-    .hero-section p {
-        font-size: 1.25rem;
-    }
-
-    .card-img-top {
-        height: 180px;
-    }
-}
-
-/* Für kleine Tablets und große Smartphones */
-@media (max-width: 768px) {
+/* ========================
+   Für kleine Smartphones
+   ======================== */
+@media (max-width: 700px) {
     .container-start, .container-blog {
-        max-width: 90%;
         padding: 0 10px;
-    }
-
-    .hero-section {
-        padding: 50px 0;
-    }
-
-    .hero-section h1 {
-        font-size: 2rem;
-    }
-
-    .hero-section p {
-        font-size: 1.1rem;
-    }
-
-    .card-body {
-        padding: 10px;
-    }
-}
-
-/* Für kleine Smartphones */
-@media (max-width: 576px) {
-    .navbar {
-        flex-direction: column;
-        text-align: center;
-    }
-
-    .navbar img {
-        margin-bottom: 10px;
     }
 
     .hero-section {
@@ -212,8 +197,12 @@ h1 {
         font-size: 1rem;
     }
 
-    .card-img-top {
-        height: 150px;
+    .card {
+        margin: 8px;
+    }
+
+    .card-body {
+        padding: 10px;
     }
 
     .card-title {
@@ -226,12 +215,6 @@ h1 {
 
     footer {
         font-size: 0.9rem;
-    }
-
-    .container-start, .container-blog {
-        max-width: 100%;
-        padding-left: 5px;
-        padding-right: 5px;
     }
 
     article {
@@ -247,4 +230,21 @@ h1 {
     .text-justify {
         font-size: 0.9rem;
     }
+}
+
+/* ========================
+   Desktop Design
+   ======================== */
+@media (min-width: 1200px) {
+    article {
+        margin: 0 20vh; /* Abstand zum Rand auf Desktop */
+    }
+}
+
+/* ========================
+   Text-Align
+   ======================== */
+.text-justify {
+    text-align: justify;
+    hyphens: auto;
 }
