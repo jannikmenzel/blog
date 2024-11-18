@@ -9,6 +9,8 @@ body {
     background-color: #f8f9fa;
     min-height: 100vh;
     margin: 0;
+    font-size: 1rem; /* Basis-Schriftgröße für responsives Design */
+    line-height: 1.6;
 }
 
 /* ========================
@@ -46,7 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background: linear-gradient(45deg, #9b59b6, #bd4545, #4e73df);
+    background: linear-gradient(45deg, #9b59b6, #ac5f5f, #4e73df);
     background-size: 400% 400%;
     animation: gradientAnimation 10s ease infinite;
     color: white;
@@ -54,22 +56,22 @@ body {
     overflow: hidden;
 }
 
-.hero-section h1, .hero-section p {
+.hero-section h1 {
     font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
     opacity: 0;
     animation: fadeInUp 1s forwards;
 }
 
-.hero-section h1 {
-    font-weight: 600;
-}
-
 .hero-section p {
+    font-family: 'Montserrat', sans-serif;
     font-weight: 200;
+    opacity: 0;
+    animation: fadeInUp 1s forwards;
     animation-delay: 0.2s;
 }
 
-/* Hero Section Text Animation */
+/* Hero Section Animationen */
 @keyframes fadeInUp {
     0% {
         opacity: 0;
@@ -81,7 +83,6 @@ body {
     }
 }
 
-/* Scroll Animation */
 @keyframes gradientAnimation {
     0% {
         background-position: 0 50%;
@@ -147,10 +148,11 @@ footer {
     text-align: center;
     padding: 20px;
     margin-top: auto;
+    font-size: 0.9rem;
 }
 
 /* ========================
-   Allgemeines Styling für Artikel-Inhalt
+   Artikel-Inhalt
    ======================== */
 #blog-content {
     max-width: 100%;
@@ -160,20 +162,11 @@ footer {
     border-radius: 10px;
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
     hyphens: auto;
+    text-align: justify;
     line-height: 1.8;
-    text-align: justify; /* Blocksatz für den Text */
-    font-family: 'Arial', sans-serif;
 }
 
-/* ========================
-   Überschriften im Artikel (Markdown h1, h2, h3, h4, etc.)
-   ======================== */
-#blog-content h1, #blog-content h2, #blog-content h3, #blog-content h4, #blog-content h5, #blog-content h6 {
-    color: #222;
-    margin-bottom: 20px;
-    font-weight: 600;
-}
-
+/* Überschriften im Artikel */
 #blog-content h1 {
     font-size: 2.5rem;
     margin-top: 0;
@@ -199,32 +192,18 @@ footer {
     font-size: 1rem;
 }
 
-/* ========================
-   Absätze im Artikel (Markdown p)
-   ======================== */
-#blog-content p {
+#blog-content p,
+#blog-content li {
     margin-bottom: 20px;
     font-size: 1.1rem;
     color: #555;
 }
 
-/* ========================
-   Listen im Artikel (Markdown ul, ol, li)
-   ======================== */
 #blog-content ul, #blog-content ol {
     padding-left: 20px;
-    margin-bottom: 20px;
 }
 
-#blog-content li {
-    font-size: 1rem;
-    color: #555;
-    line-height: 1.6;
-}
-
-/* ========================
-   Zitate im Artikel (Markdown blockquote)
-   ======================== */
+/* Zitate im Artikel */
 #blog-content blockquote {
     background-color: #f0f0f0;
     padding: 20px;
@@ -233,9 +212,7 @@ footer {
     font-style: italic;
 }
 
-/* ========================
-   Links im Artikel (Markdown a)
-   ======================== */
+/* Links im Artikel */
 #blog-content a {
     color: #4e73df;
     text-decoration: none;
@@ -247,9 +224,7 @@ footer {
     text-decoration: underline;
 }
 
-/* ========================
-   Code im Artikel (Markdown code)
-   ======================== */
+/* Inline-Code im Artikel */
 #blog-content code {
     background-color: #f8f9fa;
     border-radius: 5px;
@@ -258,83 +233,18 @@ footer {
     color: #d9534f;
 }
 
-/* ========================
-   Bilder im Artikel (Markdown img)
-   ======================== */
+/* Bilder im Artikel */
 #blog-content img {
     width: 100%;
-    max-height: 60vh; /* Verhindert, dass Bilder zu groß werden */
+    max-height: 40vh;
     object-fit: cover;
     border-radius: 10px;
     margin-bottom: 20px;
+    margin-top: 50px;
 }
 
 /* ========================
-   Für kleine Smartphones
-   ======================== */
-@media (max-width: 700px) {
-    #blog-content {
-        padding: 20px 10px;
-    }
-
-    #blog-content h1 {
-        font-size: 1.8rem;
-    }
-
-    #blog-content h2 {
-        font-size: 1.6rem;
-    }
-
-    #blog-content h3 {
-        font-size: 1.4rem;
-    }
-
-    #blog-content p {
-        font-size: 1rem;
-    }
-
-    #blog-content li {
-        font-size: 0.9rem;
-    }
-
-    #blog-content img {
-        max-height: 50vh;
-    }
-}
-
-/* ========================
-   Desktop Design (Abstand zum Bildschirmrand vergrößern)
-   ======================== */
-@media (min-width: 1200px) {
-    #blog-content {
-        margin-left: auto;
-        margin-right: auto;
-        padding: 0 5vw; /* Fügt dynamischen Abstand links und rechts hinzu (5% der Viewport-Breite) */
-        max-width: 1200px; /* Maximale Breite für den Inhalt, um ihn nicht zu breit zu machen */
-    }
-}
-
-/* ========================
-   Artikel Text-Align (für Markdown blocksatz)
-   ======================== */
-.text-justify {
-    text-align: justify;
-    hyphens: auto;
-}
-
-/* ========================
-   Bild im Markdown anpassen
-   ======================== */
-img {
-    width: 100%;
-    height: 30vh; /* Optional: Anpassen, je nachdem, wie schmal das Bild sein soll */
-    object-fit: cover;
-    border-radius: 10px;
-    margin-top: 5vh;
-}
-
-/* ========================
-   Für kleine Smartphones
+   Responsives Design
    ======================== */
 @media (max-width: 700px) {
     .container-start, .container-blog {
@@ -353,6 +263,30 @@ img {
         font-size: 1rem;
     }
 
+    #blog-content {
+        padding: 20px 10px;
+    }
+
+    #blog-content h1 {
+        font-size: 1.8rem;
+    }
+
+    #blog-content h2 {
+        font-size: 1.6rem;
+    }
+
+    #blog-content h3 {
+        font-size: 1.4rem;
+    }
+
+    #blog-content p, #blog-content li {
+        font-size: 1rem;
+    }
+
+    #blog-content img {
+        max-height: 50vh;
+    }
+
     .card {
         margin: 8px;
     }
@@ -364,43 +298,12 @@ img {
     .card-title {
         font-size: 1.1rem;
     }
-
-    .card-text {
-        font-size: 0.9rem;
-    }
-
-    footer {
-        font-size: 0.9rem;
-    }
-
-    article {
-        padding: 20px 10px;
-    }
-
-    body {
-        font-size: 0.9rem;
-        line-height: 1.6;
-    }
-
-    .card-text,
-    .text-justify {
-        font-size: 0.9rem;
-    }
 }
 
-/* ========================
-   Desktop Design
-   ======================== */
 @media (min-width: 1200px) {
-    article {
-        margin: 0 20vh; /* Abstand zum Rand auf Desktop */
+    #blog-content {
+        margin: 0 auto;
+        padding: 0 5vw;
+        max-width: 1200px;
     }
-}
-
-/* ========================
-   Text-Align
-   ======================== */
-.text-justify {
-    text-align: justify;
-    hyphens: auto;
 }
