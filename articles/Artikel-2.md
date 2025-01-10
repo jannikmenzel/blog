@@ -8,7 +8,7 @@
 
 ### "Biomodeling and 3D printing: A novel radiology subspecialty" von Silvina Zabala-Travers
 
-Die Modellierung und der 3D-Druck ist ein verhältnismäßig junges Themengebiet in der Radiologie, welches jedoch ein unglaubliches Potenzial mit sich bringt. Aufbauend auf bestehenden Techniken, wie dem CT-, MRT- oder PET-Scan bietet die Modellbildung eine Vielzahl an Vorteilen im Bereich der Diagnostik und der Ausbildung / Forschung, sowie in der Behandlung und Patientenkommunikation. So werden sie beispielsweise in der Chirurgie genutzt, um komplexe Eingriffe zu simulieren, oder sogar, um Prothesen und künstliche Transplantate herzustellen.
+Die Modellierung und der 3D-Druck ist ein verhältnismäßig junges Themengebiet in der Radiologie, welches jedoch ein unglaubliches Potenzial mit sich bringt. Aufbauend auf bestehenden Techniken, wie dem CT-, MRT- oder PET-Scan bietet die Modellbildung eine Vielzahl an Vorteilen im Bereich der Diagnostik und der Ausbildung / Forschung, sowie in der Behandlung und Patientenkommunikation. So wird diese beispielsweise in der Chirurgie genutzt, um komplexe Eingriffe zu simulieren, oder sogar, um Prothesen und künstliche Transplantate herzustellen.
 
 Obwohl die Bio-Modellierung so umfangreiche Möglichkeiten bietet, ist eine Zusammenarbeit und Sichtung durch radiologische Mitarbeitende, so schreibt es Silvina Zabala-Travers, zur Fehlerminimierung und Minimierung von Artefakten unerlässlich. Es gilt jedoch: eine Steigerung der Kosteneffizienz und Zugänglichkeit dieser Technologien, wird die Medizin der Zukunft nachhaltig verändern.
 
@@ -16,7 +16,7 @@ Obwohl die Bio-Modellierung so umfangreiche Möglichkeiten bietet, ist eine Zusa
 
 ### Das Potenzial des Bio-Drucks
 
-Der Fortschritt in der Forschung und Schulungen werden dafür sorgen, dass die Bio-Modellierung zukünftig in vielen Fachbereichen eingesetzt werden kann. Von der Kardiologie über die Urologie bis hin zur Onkologie. Es können Kosten und Aufwand gespart werden und die Erfolgsbilanz von chirurgischen Eingriffen wird steigen. Auch die Einsatzmöglichkeiten werden mit zunehmender Intensivierung der Forschung erweitert. So wird es beispielsweise möglich sein künstliche Organe drucken zu können.
+Der Fortschritt in der Forschung und Schulungen werden dafür sorgen, dass die Bio-Modellierung zukünftig in vielen Fachbereichen eingesetzt werden kann. Von der Kardiologie über die Urologie bis hin zur Onkologie. Es können Kosten und Aufwand gespart werden und die Erfolgsbilanz von chirurgischen Eingriffen wird steigen. Auch die Einsatzmöglichkeiten werden mit zunehmender Intensivierung der Forschung erweitert. So wird es beispielsweise möglich sein, künstliche Organe drucken zu können.
 
 ---
 

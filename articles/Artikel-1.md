@@ -8,11 +8,11 @@
 
 ### "Why Software Is Eating The World" von Marc Andreesen
 
-Software ist der zentrale Dreh- und Angelpunkt der wirtschaftlichen Entwicklung im Einundzwanzigsten Jahrhundert und beeinflusst Unternehmen in allen denkbaren Branchen - sowohl auf digitalen als auch auf traditionellen Märkten. Start-Up-Unternehmen, die die Softwaregoldgrube für sich nutzen, erobern den Markt, und bestehende Marktführer müssen sich an diese Veränderung anpassen, um ihre marktführende Position weiterhin zu halten - oftmals bedeutet das, selbst zum Teil der Softwareevolution zu werden.
+Software ist der zentrale Dreh- und Angelpunkt der wirtschaftlichen Entwicklung im Einundzwanzigsten Jahrhundert und beeinflusst Unternehmen in allen denkbaren Branchen - sowohl auf digitalen als auch auf traditionellen Märkten. Start-up-Unternehmen, die die Softwaregoldgrube für sich nutzen, erobern den Markt, und bestehende Marktführer müssen sich an diese Veränderung anpassen, um ihre marktführende Position weiterhin zu halten - oftmals bedeutet das, selbst zum Teil der Softwareevolution zu werden.
 
 Software hat seinen Weg in fast jeden Sektor der Wirtschaft gefunden - von Agrarwirtschaft über die Automobilindustrie bis hin zur Unterhaltungsindustrie - auch die Bildung und das Gesundheitswesen werden diesem Trend folgen. Diese rasante Entwicklung haben wir dem Fortschritt und der Zugänglichkeit des Internets und damit zusammenhängend ebenfalls der zunehmenden Verbreitung (mobiler) Endgeräte zu verdanken.
 
-Dennoch haben es Start-Up-Unternehmen in der heutigen Zeit nicht leicht, da sie eine Vielzahl an Hürden überwinden müssen, um sich auf dem umkämpften Markt zu etablieren - es gilt jedoch: Wer es schafft, wird mit umso größeren Wachstumsraten und einer unglaublichen Resilienz belohnt.
+Dennoch haben es Start-up-Unternehmen in der heutigen Zeit nicht leicht, da sie eine Vielzahl an Hürden überwinden müssen, um sich auf dem umkämpften Markt zu etablieren - es gilt jedoch: Wer es schafft, wird mit umso größeren Wachstumsraten und einer unglaublichen Resilienz belohnt.
 
 ---
 

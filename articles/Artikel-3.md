@@ -10,7 +10,7 @@
 
 Das W.TEC (Women’s Technology Empowerment Centre), das von Oreoluwa Somolu Lesi gegründet wurde, um Mädchen und Frauen in Nigeria IT-Kenntnisse zu vermitteln, zählt zu der Gruppe der Nichtregierungsorganisation (NGO) und wird primär durch Spenden, Fördergelder und öffentliche Mittel finanziert. Es ist vergleichbar mit NGOs wie "Malala Fund" oder "Plan International" und verfolgt das konkrete Ziel, der Chancengleichheit für Mädchen und Frauen in Entwicklungsländern.
 
-Das Social Businesses setzen im Gegensatz zu W.TEC auf ein nachhaltiges Geschäftsmodells, bei dem Gewinne nicht an Investoren ausgeschüttet, sondern mit dem Ziel, die soziale Mission zu stärken, reinvestiert werden. Dabei ist eine wirtschaftliche Selbsttragfähigkeit zentral. Die starke Abhängigkeit von Partnerorganisationen und Förderern, ist daher der zentrale Punkt, der W.TEC als NGO von Social Businesses unterscheidet. 
+Das Social Businesses setzen im Gegensatz zu W.TEC auf ein nachhaltiges Geschäftsmodell, bei dem Gewinne nicht an Investoren ausgeschüttet, sondern mit dem Ziel, die soziale Mission zu stärken, reinvestiert werden. Dabei ist eine wirtschaftliche Selbsttragfähigkeit zentral. Die starke Abhängigkeit von Partnerorganisationen und Förderern, ist daher der zentrale Punkt, der W.TEC als NGO von Social Businesses unterscheidet. 
 
 ---
 
