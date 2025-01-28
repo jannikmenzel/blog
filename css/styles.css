@@ -1,6 +1,10 @@
 /* ========================
    Allgemeines Styling
    ======================== */
+html {
+    background-color: #212528;
+}
+
 body {
     display: flex;
     flex-direction: column;
