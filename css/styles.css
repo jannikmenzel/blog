@@ -10,11 +10,16 @@ body {
     flex-direction: column;
     font-family: Arial, sans-serif;
     color: #333;
-    background-color: #f8f9fa;
+    background-color: #fefefe;
     min-height: 100vh;
     margin: 0;
     font-size: 1rem;
     line-height: 1.6;
+}
+
+.highlight-name {
+    color: #6a994e;
+    font-weight: normal;
 }
 
 /* ========================
@@ -55,6 +60,7 @@ body {
     color: #333;
     padding: 0 20px;
     overflow: hidden;
+    background-color: #f8f9fa;
 }
 
 .hero-section h1 {
