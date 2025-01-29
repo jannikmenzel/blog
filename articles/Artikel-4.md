@@ -1,4 +1,4 @@
-![Blogbild](/articles/image/Generation%20ChatGPT%20-%20Wie%20KI%20unser%20Studium%20veraaendert.jpg)
+![Blogbild](/articles/images/Generation%20ChatGPT%20-%20Wie%20KI%20unser%20Studium%20veraaendert.jpg)
 
 # Generation ChatGPT - Wie KI unser Studium verändert
 

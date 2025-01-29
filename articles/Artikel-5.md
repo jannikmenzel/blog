@@ -1,4 +1,4 @@
-![Blogbild](/articles/image/Die%20gefaehrlichste%20Ransomware%20der%20Welt.jpg)
+![Blogbild](articles/images/Die%20gefaehrlichste%20Ransomware%20der%20Welt.jpg)
 
 # Die gefährlichste Ransomware der Welt
 
