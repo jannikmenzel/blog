@@ -8,7 +8,7 @@
 
 ### "Biomodeling and 3D printing: A novel radiology subspecialty" von Silvina Zabala-Travers
 
-Die Modellierung und der 3D-Druck ist ein verhältnismäßig junges Themengebiet in der Radiologie, welches jedoch ein unglaubliches Potenzial mit sich bringt. Aufbauend auf bestehenden Techniken, wie dem CT-, MRT- oder PET-Scan bietet die Modellbildung eine Vielzahl an Vorteilen im Bereich der Diagnostik und der Ausbildung / Forschung, sowie in der Behandlung und Patientenkommunikation. So wird diese beispielsweise in der Chirurgie genutzt, um komplexe Eingriffe zu simulieren, oder sogar, um Prothesen und künstliche Transplantate herzustellen.
+Die Modellierung und der 3D-Druck sind verhältnismäßig junge Themengebiete der Radiologie, welche jedoch ein unglaubliches Potenzial mit sich bringen. Aufbauend auf bestehenden Techniken, wie dem CT-, MRT- oder PET-Scan bietet die Modellbildung eine Vielzahl an Vorteilen im Bereich der Diagnostik und der Ausbildung / Forschung, sowie in der Behandlung und Patientenkommunikation. So wird diese beispielsweise in der Chirurgie genutzt, um komplexe Eingriffe zu simulieren, oder sogar, um Prothesen und künstliche Transplantate herzustellen.
 
 Obwohl die Bio-Modellierung so umfangreiche Möglichkeiten bietet, ist eine Zusammenarbeit und Sichtung durch radiologische Mitarbeitende, so schreibt es Silvina Zabala-Travers, zur Fehlerminimierung und Minimierung von Artefakten unerlässlich. Es gilt jedoch: eine Steigerung der Kosteneffizienz und Zugänglichkeit dieser Technologien, wird die Medizin der Zukunft nachhaltig verändern.
 
@@ -22,4 +22,4 @@ Der Fortschritt in der Forschung und Schulungen werden dafür sorgen, dass die B
 
 ### Lebensmittel und nachhaltige Materialien aus dem Drucker
 
-Der Druck von Lebensmitteln stellt eine enorme Chance in puncto Nachhaltigkeit dar, da er die Art und Weise, wie wir Nahrung produzieren, verteilen und konsumieren, grundlegend verändern kann. Auch biologisch abbaubare Stoffe, wie beispielsweise der Stoff "PTA".
+Der Druck von Lebensmitteln stellt eine enorme Chance in puncto Nachhaltigkeit dar, da er die Art und Weise, wie wir Nahrung produzieren, verteilen und konsumieren, grundlegend verändern kann. Auch biologisch abbaubare Stoffe, wie beispielsweise der Stoff "PTA" könnten in diesem Bereich eine wichtige Rolle spielen.

@@ -16,9 +16,9 @@ Dennoch haben es Start-up-Unternehmen in der heutigen Zeit nicht leicht, da sie 
 
 ---
 
-### Überlebenschance für traditionelle Unternehmen
+### Was müssen traditionelle Unternehmen tun, um zu überleben?
 
-Die kurze Antwort auf diese Frage: Diejenigen Unternehmen, die bereit sind, sich anzupassen und von den Vorteilen von "Software" zu profitieren, anstatt dagegen anzukämpfen. Die lange Antwort: Software wird sich letztendlich in sämtlichen relevanten Sektoren der Weltwirtschaft etablieren - und das beschränkt sich nicht auf die digital-basierten Wirtschaftszweige, wie die Telekommunikation, die Videospielindustrie oder den Onlinehandel. Wer dieser Entwicklung entkommen will, braucht ein Geschäftsmodell mit Alleinstellungsmerkmal, das nicht auf Software angewiesen ist. Doch wie Marc Andreesen es in seinem Artikel "Why Software Is Eating The World" beschreibt: _"Software is also eating much of the value chain of industries that are widely viewed as primarily existing in the physical world."_
+Die kurze Antwort auf diese Frage: Diejenigen Unternehmen, die bereit sind, sich anzupassen und von den Vorteilen von "Software" zu profitieren, anstatt dagegen anzukämpfen werden weiter bestehen. Die lange Antwort: Software wird sich letztendlich in sämtlichen relevanten Sektoren der Weltwirtschaft etablieren - und das beschränkt sich nicht auf die digital-basierten Wirtschaftszweige, wie die Telekommunikation, die Videospielindustrie oder den Onlinehandel. Wer dieser Entwicklung entkommen will, braucht ein Geschäftsmodell mit Alleinstellungsmerkmal, das nicht auf Software angewiesen ist. Doch wie Marc Andreesen es in seinem Artikel "Why Software Is Eating The World" beschreibt: _"Software is also eating much of the value chain of industries that are widely viewed as primarily existing in the physical world."_
 
 ---
 
