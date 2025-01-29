@@ -14,7 +14,7 @@ function loadMarkdownFile(filePath) {
                 throw new Error('Marked.js ist nicht geladen.');
             }
             // Blogbilder Fix
-            const fixedMarkdown = markdown.replace(/!\[(.*?)]\(\/(assets\/.*?)\)/g, '![$1]($2)');
+            const fixedMarkdown = markdown.replace(/\[.*?]\(\/assets\//g, '[$&](assets/');
             // Markdown zu HTML konvertieren und einfügen
             document.getElementById('blog-content').innerHTML = marked(fixedMarkdown);
         })
