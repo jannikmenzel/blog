@@ -13,8 +13,10 @@ function loadMarkdownFile(filePath) {
             if (typeof marked !== 'function') {
                 throw new Error('Marked.js ist nicht geladen.');
             }
+            // Blogbilder Fix
+            const fixedMarkdown = markdown.replace(/!\[(.*?)]\(\/(assets\/.*?)\)/g, '![$1]($2)');
             // Markdown zu HTML konvertieren und einfügen
-            document.getElementById('blog-content').innerHTML = marked(markdown);
+            document.getElementById('blog-content').innerHTML = marked(fixedMarkdown);
         })
         .catch(error => {
             console.error('Fehler:', error.message);
