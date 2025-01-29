@@ -1,4 +1,4 @@
-![Blogbild](../articles/image/Mit%20Computerkursen%20in%20ein%20besseres%20Leben.jpg)
+![Blogbild](../articles/image/Generation%20ChatGPT%20-%20Wie%20KI%20unser%20Studium%20veraaendert.jpg)
 
 # Mit Computerkursen in ein besseres Leben
 
