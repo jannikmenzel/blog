@@ -1,4 +1,4 @@
-![Blogbild](assets/Software%20is%20eating%20the%20World.jpg)
+![Blogbild](/articles/image/Software%20is%20eating%20the%20World.jpg)
 
 # Software is eating the World
 

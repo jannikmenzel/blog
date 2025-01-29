@@ -1,4 +1,4 @@
-![Blogbild](assets/Mit%20Computerkursen%20in%20ein%20besseres%20Leben.jpg)
+![Blogbild](/articles/image/Mit%20Computerkursen%20in%20ein%20besseres%20Leben.jpg)
 
 # Mit Computerkursen in ein besseres Leben
 
