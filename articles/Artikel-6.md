@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Wie%20ein%20Second%20Brain%20mein%20Lernen%20revolutioniert%20hat.jpg)
+![Blogbild](/assets/images/Artikel-6.jpg)
 
 # Wie ein Second Brain mein Lernen revolutioniert hat
 
