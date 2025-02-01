@@ -33,3 +33,8 @@ Die Wahl des richtigen Tools für das persönliche *Second Brain* hängt stark v
 Unabhängig von der konkreten Implementierung ist es wichtig, sich die vorrangigen Aufgaben und Grenzen eines *Second Brains* bewusst zu machen. Die atomaren und nicht-hierarchischen Notizen sollen einen schnellen und intuitiven Zugang zum persönlichen Wissen ermöglichen. Das *Second Brain* dient dazu, Ideen, Gedanken und Notizen strukturiert zu organisieren und den eigenen Lernprozess gezielt zu unterstützen.
 
 Allerdings sollte man nicht den Fehler machen, das *Second Brain* als reines Archiv zu betrachten. Es ist kein passives Speichermedium, sondern ein aktives Werkzeug zur Wissensverarbeitung. Notizen sollten nicht einfach nur abgelegt, sondern regelmäßig überarbeitet, verknüpft und weiterentwickelt werden. Nur so bleibt das System lebendig und wirklich nützlich.
+
+### Passende Buchempfehlungen
+
+- **Building a Second Brain** von Tiago Forte
+- **How to Take Smart** Notes von Sönke Ahrens

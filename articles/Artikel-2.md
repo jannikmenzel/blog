@@ -23,3 +23,8 @@ Der Fortschritt in der Forschung und Schulungen werden dafür sorgen, dass die B
 ### Lebensmittel und nachhaltige Materialien aus dem Drucker
 
 Der Druck von Lebensmitteln stellt eine enorme Chance in puncto Nachhaltigkeit dar, da er die Art und Weise, wie wir Nahrung produzieren, verteilen und konsumieren, grundlegend verändern kann. Auch biologisch abbaubare Stoffe, wie beispielsweise der Stoff "PTA" könnten in diesem Bereich eine wichtige Rolle spielen.
+
+### Referenzen
+<a id="Referenzen"></a>
+
+1. [Silvina Zabala-Travers (2021). Biomodeling and 3D printing: A novel radiology subspecialty"](https://www.sciencedirect.com/science/article/pii/S2666964121000333)
