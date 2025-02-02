@@ -38,5 +38,5 @@ Zum Abschluss möchte ich gerne auf eine weitere spannende Anwendungsmöglichkei
 
 ### Passende Buchempfehlungen
 
-- **Tell me!** von Thomas Pyczak
-- **Storyworthy** von Matthew Dicks
+1. **Tell me!** von Thomas Pyczak
+2. **Storyworthy** von Matthew Dicks

@@ -11,7 +11,7 @@
 An einem sonnigen Dienstagnachmittag vor fünf Jahren bricht in der Ukraine ohne Vorwarnung das Chaos aus. Eine Vielzahl an staatlichen Einrichtungen, Unternehmen oder Banken verlieren einen Großteil ihrer Daten. Ganze Reihen an Computern schalten sich plötzlich ab und es ist lediglich eine in Rot geschriebene Meldung mit den Worten „Ooops, your important files are encrypted“ [[1]](#Referenzen) zu sehen. Ursache für den milliardenschweren Vorfall ist „NotPetya“ – der folgenschwerste Hackerangriff in der Geschichte der Menschheit.
 
 Auch vor internationalen Grenzen macht die gefährliche Malware nicht halt. Maersk, das größte Schiffsfahrtunternehmen der Welt mit seinem Hauptsitz in Kopenhagen, verlor durch „NotPetya“ an diesem Tag ganze 300 Millionen US-Dollar. Die IT-Infrastruktur des
-Unternehmens brach fast vollständig zusammen. So sagt der IT-Administrator der Firma Maersk, Henrik Jensen, in einem Interview mit der Technik-Zeitschrift „Wired“: „Ich sah eine Welle von Bildschirmen, die schwarz wurden. Schwarz, schwarz, schwarz. Schwarz, schwarz, schwarz, schwarz, schwarz.“ [[1]](#Referenzen) Maersk war allerdings nicht das einzige Unternehmen, welches an diesem Tag Opfer des verheerendsten Hackerangriffs jemals wurde. Das deutsche Pharmaunternehmen Merck beispielsweise dokumentierte Schäden in Höhe von 870 Millionen US-Dollar. Das Lieferunternehmen FedEx und das französische Bauunternehmen Saint-Gobain, jeweils 400 und 384 Millionen US-Dollar. 
+Unternehmens brach fast vollständig zusammen. So sagt der IT-Administrator der Firma Maersk, Henrik Jensen, in einem Interview mit der Technik-Zeitschrift „Wired“: „Ich sah eine Welle von Bildschirmen, die schwarz wurden. Schwarz, schwarz, schwarz. Schwarz, schwarz, schwarz, schwarz, schwarz.“ [[1]](#Referenzen) Maersk war allerdings nicht das einzige Unternehmen, welches an diesem Tag Opfer des verheerendsten Hackerangriffs jemals wurde. Das deutsche Pharmaunternehmen Merck beispielsweise dokumentierte Schäden in Höhe von 870 Millionen US-Dollar. Das Lieferunternehmen FedEx und das französische Bauunternehmen Saint-Gobain, jeweils 400 und 384 Millionen US-Dollar.
 
 Der Trojaner „NotPetya“ zählt zu der Gruppe der sogenannten Ransomware. Das deutsche Bundesamt für Sicherheit in der Informationstechnik beschreibt diese Art Hack folgendermaßen: „Der Begriff Ransomware steht für eine Art von Schadprogrammen, die den Zugriff auf Daten und Systeme einschränken oder unterbinden. Für die Freigabe wird dann ein Lösegeld […] verlangt.“ [[2]](#Referenzen)
 
@@ -24,7 +24,7 @@ Bitcoin, um die verschlüsselten Daten eines PCs wieder freizugeben. Mit der Fra
 
 Wir schreiben den 27. Juni 2017, als einer der Updateserver des ukrainischen Softwareunternehmens „Linkos Group“ von einer Hackergruppe gekapert wird. Infolgedessen diente der Server den Hackern als Kurier eines unheilvollen Datenpakets: „NotPetya“. Ziel dieser als Update getarnten Schadsoftware war das ukrainische Buchhaltungsprogramm MEDoc, das zum Zeitpunkt des Cyberangriffes von einem Großteil der ukrainischen Steuerzahler verwendet wurde. Egal ob staatliche Institution oder Privatunternehmen. Das Scheinupdate infiltrierte an diesem Tag Tausende Netzwerke.
 
-Aber wie ging es nun weiter? Wie hat der Wurm es geschafft, weltweit die Kontrolle über Dutzende IT-Netzwerke zu erlangen. Grob gesagt nutzte „NotPetya“ hierzu die Hilfe von zwei Exploits des Betriebssystems Windows. „EternalBlue“ ist die Erste der zwei Schwachstellen. Sie wurde bereits einen Monat zuvor am 11. Mai 2017 von der Ransomware „WannaCry“ genutzt, um sich durch einen Fehler im Server-Message-Block-Protokoll von Windows-Netzwerken unerlaubten Zugang zu verschaffen. Dieses ursprünglich von der NSA entdeckte Datenleck war zum Zeitpunkt der „NotPetya“-Attacke bereits von Windows behoben worden. Allerdings waren die IT-Infrastrukturen vieler Unternehmen noch nicht auf dem neusten Softwarestand. Dieser Fehler wurde ihnen letztendlich zum Verhängnis. 
+Aber wie ging es nun weiter? Wie hat der Wurm es geschafft, weltweit die Kontrolle über Dutzende IT-Netzwerke zu erlangen. Grob gesagt nutzte „NotPetya“ hierzu die Hilfe von zwei Exploits des Betriebssystems Windows. „EternalBlue“ ist die Erste der zwei Schwachstellen. Sie wurde bereits einen Monat zuvor am 11. Mai 2017 von der Ransomware „WannaCry“ genutzt, um sich durch einen Fehler im Server-Message-Block-Protokoll von Windows-Netzwerken unerlaubten Zugang zu verschaffen. Dieses ursprünglich von der NSA entdeckte Datenleck war zum Zeitpunkt der „NotPetya“-Attacke bereits von Windows behoben worden. Allerdings waren die IT-Infrastrukturen vieler Unternehmen noch nicht auf dem neusten Softwarestand. Dieser Fehler wurde ihnen letztendlich zum Verhängnis.
 
 Phase zwei des Cyberangriffs stellte das „Mimikatz“-Programm dar. Dieser vom französischen IT-Spezialisten Benjamin Delpy entwickelte Algorithmus ermöglichte es den Hackern, Passwörter und Benutzerdaten aus dem RAM-Speicher des Windows Systems zu extrahieren. Mithilfe dieser Informationen konnte sich „NotPetya“ mit Leichtigkeit in den Netzwerken großer Unternehmen verbreiten. Zur zerstörerischen Macht des „NotPetya“-Hacks sagt der Entwickler von „Mimikatz“ beispielsweise „Sie können Computer infizieren, die nicht gepatcht sind, und sich dann die Passwörter dieser Computer schnappen, um andere Computer zu infizieren, die gepatcht sind“ [[1]](#Referenzen)
 
@@ -67,15 +67,16 @@ Während meiner Recherche habe ich mich hauptsächlich auf die in der technische
 ---
 
 ### Referenzen
+
 <a id="Referenzen"></a>
 
-1.	[Wired (2018). “NotPetya: How a Cyberattack on Ukraine Spread Around the World.”](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
-2.	[Bundesamt für Sicherheit in der Informationstechnik (BSI) (2022). “Ransomware: Bedrohung für Unternehmen und Verbraucher.”](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Schadprogramme/Ransomware/ransomware_node.html)
-3.	[International Journal of Recent Technology and Engineering (IJRTE) (2019). “Cyber Security: A Study of Ransomware Attacks and Their Impact.”](https://www.ijrte.org/wp-content/uploads/papers/v7i6s/F03120376S19.pdf)
-4.	[Microsoft (2021). “PsExec – Sysinternals.”](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
-5.	[Bundesregierung Deutschland (2014). “Annexion der Krim durch Russland.”](https://www.bundesregierung.de/breg-de/suche/annexion-der-krim-durch-1876950)
-6.	[Wired (2018). “White House Blames Russia for NotPetya Cyberattack.”](https://www.wired.com/story/white-house-russia-notpetya-attribution/)
-7.	[Sichere Industrie (2020). “NotPetya-Angriff: Schaden und Versicherung.”](https://www.sichere-industrie.de/notpetya-angriff-schaden-versicherung/)
-8.	[Proofpoint (2021). “WannaCry and Ransomware: What You Need to Know.”](https://www.proofpoint.com/de/threat-reference/wannacry)
-9.	[YouTube (2019). “Darknet Diaries: Episode 54 – The NotPetya Attack.”](https://www.youtube.com/watch?v=KODpP29AHD4)
-10.	[Darknet Diaries (2020). “The NotPetya Attack: A Cybersecurity Nightmare.”](https://darknetdiaries.com/episode/54/)
+1. [Wired (2018). “NotPetya: How a Cyberattack on Ukraine Spread Around the World.”](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
+2. [Bundesamt für Sicherheit in der Informationstechnik (BSI) (2022). “Ransomware: Bedrohung für Unternehmen und Verbraucher.”](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Schadprogramme/Ransomware/ransomware_node.html)
+3. [International Journal of Recent Technology and Engineering (IJRTE) (2019). “Cyber Security: A Study of Ransomware Attacks and Their Impact.”](https://www.ijrte.org/wp-content/uploads/papers/v7i6s/F03120376S19.pdf)
+4. [Microsoft (2021). “PsExec – Sysinternals.”](https://docs.microsoft.com/en-us/sysinternals/downloads/psexec)
+5. [Bundesregierung Deutschland (2014). “Annexion der Krim durch Russland.”](https://www.bundesregierung.de/breg-de/suche/annexion-der-krim-durch-1876950)
+6. [Wired (2018). “White House Blames Russia for NotPetya Cyberattack.”](https://www.wired.com/story/white-house-russia-notpetya-attribution/)
+7. [Sichere Industrie (2020). “NotPetya-Angriff: Schaden und Versicherung.”](https://www.sichere-industrie.de/notpetya-angriff-schaden-versicherung/)
+8. [Proofpoint (2021). “WannaCry and Ransomware: What You Need to Know.”](https://www.proofpoint.com/de/threat-reference/wannacry)
+9. [YouTube (2019). “Darknet Diaries: Episode 54 – The NotPetya Attack.”](https://www.youtube.com/watch?v=KODpP29AHD4)
+10. [Darknet Diaries (2020). “The NotPetya Attack: A Cybersecurity Nightmare.”](https://darknetdiaries.com/episode/54/)

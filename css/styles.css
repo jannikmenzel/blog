@@ -192,9 +192,8 @@ footer {
 #blog-content blockquote {
     background-color: #f0f0f0;
     padding: 20px;
-    border-left: 5px solid #354f52;
     margin-bottom: 20px;
-    font-style: italic;
+    border-radius: 10px;
 }
 
 /* Links im Artikel */
@@ -221,7 +220,7 @@ footer {
 /* Bilder im Artikel */
 #blog-content img {
     width: 100%;
-    max-height: 40vh;
+    max-height: 50vh;
     object-fit: cover;
     border-radius: 10px;
     margin-bottom: 20px;

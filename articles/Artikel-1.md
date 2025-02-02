@@ -26,7 +26,10 @@ Die kurze Antwort auf diese Frage: Diejenigen Unternehmen, die bereit sind, sich
 
 In einer Welt, in der Software zunehmend im Mittelpunkt der globalen Wirtschaft steht, ist es nicht leicht, mit der geballten Kraft der amerikanischen Tech-Riesen und des Silicon Valleys mitzuhalten. Apple, Amazon, Google - die führenden Unternehmen weltweit sind fast ausschließlich amerikanischen Ursprungs. Wenn auch deutsche Firmen eine Chance haben möchten, müssen sie Initiative zeigen, Risiken eingehen und auf den Software-Zug aufspringen. Vor allem die starke deutsche Automobilindustrie muss in Trends wie dem autonomen Fahren mithalten.
 
+---
+
 ### Referenzen
+
 <a id="Referenzen"></a>
 
 1. [Marc Andreessen. (2011) "Why Software Is Eating the World"](https://a16z.com/why-software-is-eating-the-world/)
