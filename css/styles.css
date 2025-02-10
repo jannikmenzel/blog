@@ -39,6 +39,27 @@ body {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.navbar img {
+    width: 40px;
+    height: 40px;
+}
+
+.navbar-nav {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    align-items: center;
+}
+
+.navbar-nav .nav-item {
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .navbar img {
@@ -52,6 +73,7 @@ body {
 .hero-section {
     position: relative;
     height: 60vh;
+    margin-top: 5vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -257,6 +279,15 @@ footer {
 
     .hero-section p {
         font-size: 1.5rem;
+    }
+
+    .navbar-nav {
+        text-align: right;
+    }
+
+    .navbar-nav .nav-item {
+        margin-left: 5px;
+        margin-right: 5px;
     }
 
     #blog-content {
