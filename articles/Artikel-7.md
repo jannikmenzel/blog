@@ -40,3 +40,4 @@ Zum Abschluss möchte ich gerne auf eine weitere spannende Anwendungsmöglichkei
 
 1. **Tell me!** von Thomas Pyczak
 2. **Storyworthy** von Matthew Dicks
+3. **The Storytelling Animal** von Jonathan Gottschall

@@ -81,6 +81,18 @@ body {
 }
 
 /* ========================
+   Social Media Links
+   ======================== */
+.social-links img {
+    width: 50px;
+    transition: transform 0.2s;
+}
+
+.social-links img:hover {
+    transform: scale(1.1);
+}
+
+/* ========================
    Blog Cards
    ======================== */
 .card {
