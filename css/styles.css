@@ -96,7 +96,7 @@ body {
 .hero-section p {
     font-family: 'Montserrat', sans-serif;
     font-weight: 200;
-    font-size: 1.4rem;
+    font-size: 1.5rem;
     margin-top: 5px;
     opacity: 1;
     color: #333;
@@ -115,13 +115,13 @@ body {
 }
 
 /* ========================
-   Blog Cards
+   Blog Cards Hover-Effekt
    ======================== */
 .card {
     border: none;
     border-radius: 10px;
     overflow: hidden;
-    transition: transform 0.2s;
+    transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
@@ -129,14 +129,17 @@ body {
 }
 
 .card:hover {
-    transform: translateY(-5px);
+    transform: translateY(-10px) scale(1.02);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    background-color: #f4f7f6;
 }
 
 .card-body {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    padding: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.card:hover .card-body {
+    background-color: #f4f7f6;
 }
 
 .card-title {
@@ -144,12 +147,22 @@ body {
     font-weight: 600;
     margin-bottom: 10px;
     color: #222;
+    transition: color 0.3s ease;
 }
 
 .card-text {
     font-size: 1rem;
     color: #555;
     margin-bottom: 15px;
+    transition: color 0.3s ease;
+}
+
+.card:hover .card-title {
+    color: #354f52;
+}
+
+.card:hover .card-text {
+    color: #333;
 }
 
 .reading-time {
@@ -222,7 +235,6 @@ footer {
     padding-left: 20px;
 }
 
-/* Zitate im Artikel */
 #blog-content blockquote {
     background-color: #f0f0f0;
     padding: 20px;
@@ -230,7 +242,6 @@ footer {
     border-radius: 10px;
 }
 
-/* Links im Artikel */
 #blog-content a {
     color: #4e73df;
     text-decoration: none;

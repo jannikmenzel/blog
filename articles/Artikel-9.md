@@ -2,7 +2,7 @@
 
 # Systeme schaffen, statt Ziele zu verfolgen
 
-**Veröffentlicht am: 04. Februar 2025**
+**Veröffentlicht am: 10. Februar 2025**
 
 ---
 
@@ -40,5 +40,5 @@ Es ist wichtig, sich bewusst zu machen, dass Rückschläge Teil des Prozesses si
 
 <a id="Referenzen"></a>
 
-* **Atomic Habits** von James Clear
-* **Creator Science** Podcast von Jay Clouse
+1. **Atomic Habits** von James Clear
+2. **Creator Science** Podcast von Jay Clouse
