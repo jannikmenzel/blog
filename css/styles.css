@@ -329,18 +329,6 @@ footer {
     #blog-content img {
         max-height: 50vh;
     }
-
-    .card {
-        margin: 8px;
-    }
-
-    .card-body {
-        padding: 10px;
-    }
-
-    .card-title {
-        font-size: 1.1rem;
-    }
 }
 
 @media (min-width: 1200px) {
