@@ -135,6 +135,10 @@ body {
 }
 
 .card-body {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding: 15px;
     transition: background-color 0.3s ease;
 }
 
