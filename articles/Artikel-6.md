@@ -36,7 +36,7 @@ Allerdings sollte man nicht den Fehler machen, das *Second Brain* als reines Arc
 
 ---
 
-### Passende Buchempfehlungen
+### Passende Literatur- und Medienempfehlungen
 
 1. **Building a Second Brain** von Tiago Forte
 2. **How to Take Smart** Notes von Sönke Ahrens

@@ -8,7 +8,7 @@
 
 ### Jenseits jeglicher Intuition
 
-Ein ausgedachtes Szenario: Stell dir vor, du stehst vor einer geheimnisvollen Höhle mit zwei Eingängen – einem linken und einem rechten Tunnel. Tief im Inneren der Höhle existiert ein verschlossenes Tor, das sich nur mit einem geheimen Schlüssel öffnen lässt. Ein misstrauischer Wächter möchte nun prüfen, ob du das Geheimnis kennst, doch du möchtest dein Geheimnis nicht preisgeben.
+Ein ausgedachtes Szenario: Stell dir vor, du stehst vor einer geheimnisvollen Höhle mit zwei Eingängen – einem linken und einem rechten Tunnel. Tief im Inneren der Höhle existiert ein verschlossenes Tor, das sich nur mit einem geheimen Schlüssel öffnen lässt. Ein misstrauischer Wächter möchte nun prüfen, ob du das Geheimnis kennst, doch du möchtest keinerlei Informationen preisgeben.
 
 Also geht ihr einen Deal ein: Du betrittst die Höhle durch einen beliebigen Tunnel, und der Wächter ruft dir zu, welchen Weg du zurücknehmen sollst. Wenn du den geheimen Code wirklich kennst, kannst du die Tür jederzeit ohne Probleme öffnen und den gewünschten Ausgang nehmen. Falls du nur bluffst, hast du eine 50-prozentige Chance, zufällig den richtigen Weg zu wählen. Doch schon nach dem 10. Versuch liegt die Wahrscheinlichkeit, zufällig richtigzuliegen, bei verschwindend geringen 0,098 %. Nach weiteren 90 Wiederholungen sinkt die Wahrscheinlichkeit auf gerade mal 79 Trilliardstel eines Prozents – das ist statistisch gesehen weniger wahrscheinlich, als sechsmal hintereinander im Lotto zu gewinnen. Es wird also klar: Wenn du es jedes Mal schaffst, musst du den geheimen Schlüssel kennen.
 
@@ -30,7 +30,7 @@ Mit der enormen Macht, die Zero-Knowledge Proofs bieten, geht auch eine erheblic
 
 ---
 
-### Referenzen
+### Passende Literatur- und Medienempfehlungen
 
 <a id="Referenzen"></a>
 

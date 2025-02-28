@@ -36,7 +36,7 @@ Zum Abschluss möchte ich gerne auf eine weitere spannende Anwendungsmöglichkei
 
 ---
 
-### Passende Buchempfehlungen
+### Passende Literatur- und Medienempfehlungen
 
 1. **Tell me!** von Thomas Pyczak
 2. **Storyworthy** von Matthew Dicks
