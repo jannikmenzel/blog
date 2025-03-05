@@ -1,0 +1,28 @@
+{
+ "name": "Portfolio | Jannik Menzel",
+ "short_name": "Portfolio",
+ "background_color": "#ffffff",
+ "theme_color": "#ffffff",
+ "icons": [
+  {
+   "src": "/favicon/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  },
+  {
+   "src": "/favicon/favicon.ico",
+   "sizes": "48x48",
+   "type": "image/x-icon"
+  },
+  {
+   "src": "/favicon/android-icon-192x192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/favicon/apple-icon-180x180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  }
+ ]
+}
