@@ -26,7 +26,7 @@ Auf den ersten Blick scheint der Verlauf der Zahlenfolge völlig willkürlich. M
 
 Moderne Computer haben bereits Billionen von Zahlen überprüft – und bisher landete jede einzelne irgendwann bei der 1. Doch ein Beweis für die allgemeine Gültigkeit fehlt. Das Problem: Nur weil es für jede getestete Zahl funktioniert, bedeutet das nicht automatisch, dass es für alle Zahlen gilt. Die Mathematik verlangt absolute Sicherheit, und eine unendliche Anzahl an Möglichkeiten lässt sich schlichtweg nicht durch einen Brute-Force-Ansatz abdecken.
 
-<img class="blog-image" src="../assets/images/Collatz-Conjecture.svg" alt="Korrelation 1">
+<img class="blog-image" src="/assets/images/Collatz-Conjecture.svg" alt="Korrelation 1">
 
 ---
 
