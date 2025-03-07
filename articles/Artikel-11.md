@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-11.jpg)
+![Blogbild](/assets/cover-images/Artikel-11.jpg)
 
 # Zero Knowledge Proof – Ich weiß etwas, was du nicht weißt
 

@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-6.jpg)
+![Blogbild](/assets/cover-images/Artikel-6.jpg)
 
 # Wie ein Second Brain mein Lernen revolutioniert hat
 

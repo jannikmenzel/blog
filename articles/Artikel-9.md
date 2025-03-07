@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-9.jpg)
+![Blogbild](/assets/cover-images/Artikel-9.jpg)
 
 # Systeme schaffen, statt Ziele zu verfolgen
 

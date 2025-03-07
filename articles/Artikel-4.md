@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-4.jpg)
+![Blogbild](/assets/cover-images/Artikel-4.jpg)
 
 # Generation ChatGPT - Wie KI unser Studium verändert
 

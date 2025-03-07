@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-8.jpg)
+![Blogbild](/assets/cover-images/Artikel-8.jpg)
 
 # Wie Algorithmen unsere Leben bestimmen
 

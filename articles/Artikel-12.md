@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-12.jpg)
+![Blogbild](/assets/cover-images/Artikel-12.jpg)
 
 # Belohnt, gebremst, gelenkt – Die unsichtbare Macht der Feedback-Loops
 

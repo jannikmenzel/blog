@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-10.jpg)
+![Blogbild](/assets/cover-images/Artikel-10.jpg)
 
 # Der Tanz der Zahlen: Die Collatz-Vermutung entschlüsseln
 
@@ -25,6 +25,8 @@ Das Prinzip ist simpel: Man nehme eine beliebige natürliche Zahl - für unser B
 Auf den ersten Blick scheint der Verlauf der Zahlenfolge völlig willkürlich. Manche Werte stürzen rasant ab, während andere in ungeahnte Höhen aufsteigen, bevor sie sich der unvermeidlichen 4-2-1-Schleife fügen. Doch verbirgt sich vielleicht eine versteckte Ordnung hinter dem Chaos? Eine einfache Frage steht im Raum: Gibt es eine Zahl, die sich dieser Regel widersetzt und niemals in den 4-2-1-Zyklus eintritt? Bis heute konnte niemand eine solche Zahl finden – doch auch ein Beweis, dass sie nicht existiert, fehlt.
 
 Moderne Computer haben bereits Billionen von Zahlen überprüft – und bisher landete jede einzelne irgendwann bei der 1. Doch ein Beweis für die allgemeine Gültigkeit fehlt. Das Problem: Nur weil es für jede getestete Zahl funktioniert, bedeutet das nicht automatisch, dass es für alle Zahlen gilt. Die Mathematik verlangt absolute Sicherheit, und eine unendliche Anzahl an Möglichkeiten lässt sich schlichtweg nicht durch einen Brute-Force-Ansatz abdecken.
+
+<img class="blog-image" src="../assets/images/Collatz-Conjecture.svg" alt="Korrelation 1">
 
 ---
 

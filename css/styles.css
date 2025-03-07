@@ -276,6 +276,15 @@ footer {
     margin-top: 50px;
 }
 
+.blog-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    object-fit: contain;
+    margin: 0 auto;
+    max-height: none !important;
+}
+
 /* ========================
    Responsives Design
    ======================== */

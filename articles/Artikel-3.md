@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-3.jpg)
+![Blogbild](/assets/cover-images/Artikel-3.jpg)
 
 # Mit Computerkursen in ein besseres Leben
 

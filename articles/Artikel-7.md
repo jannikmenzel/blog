@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-7.jpg)
+![Blogbild](/assets/cover-images/Artikel-7.jpg)
 
 # Die Macht des Storytellings im Alltag
 

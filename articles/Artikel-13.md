@@ -1,4 +1,4 @@
-![Blogbild](/assets/images/Artikel-13.jpg)
+![Blogbild](/assets/cover-images/Artikel-13.jpg)
 
 # Wer ist Cleo? - Der Ursprung eines Mathematik-Mythos
 
