@@ -375,10 +375,6 @@ body {
         font-size: 1.5rem;
     }
 
-    .navbar-nav {
-        text-align: right;
-    }
-
     .navbar-nav .nav-item {
         margin-left: 5px;
         margin-right: 5px;
