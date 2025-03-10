@@ -2,24 +2,68 @@
    Allgemeines Styling
    ======================== */
 html {
-    background-color: #212528;
+    background-color: #121212;
 }
 
 body {
+    background-color: #121212;
+    color: #f2f2f2;
+    margin: 0;
+    padding: 0;
     display: flex;
     flex-direction: column;
-    font-family: Arial, sans-serif;
-    color: #333;
-    background-color: #fefefe;
-    min-height: 100vh;
-    margin: 0;
-    font-size: 1rem;
-    line-height: 1.6;
+    justify-content: flex-start;
+    align-items: center;
+    position: relative;
+}
+
+.grid-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.1) 1px, transparent 1px);
+    background-size: 50px 50px;
+    opacity: 0.3;
+    z-index: 0;
+}
+
+.spotlight {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: radial-gradient(circle at 50% 50%, rgba(255, 180, 255, 0.15) 0%, rgba(0, 0, 0, 0) 50%);
+    pointer-events: none;
+    transition: background 0.1s ease-out;
+    z-index: 1;
+}
+
+@keyframes fadeEffect {
+    0% { opacity: 0.2; }
+    100% { opacity: 0.4; }
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 .highlight-name {
     color: #6a994e;
     font-weight: normal;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 
 /* ========================
@@ -31,40 +75,42 @@ body {
 }
 
 /* ========================
-   Navigation
+   Navbar
    ======================== */
 .navbar {
-    padding: 1rem;
-    background-color: #354f52;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    position: fixed;
-    width: 100%;
+    background: transparent;
+    padding: 15px 0;
     top: 0;
-    z-index: 1000;
-}
-
-.navbar img {
-    width: 40px;
-    height: 40px;
-}
-
-.navbar-nav {
-    display: flex;
-    justify-content: flex-end;
+    left: 0;
     width: 100%;
-    align-items: center;
+    z-index: 2;
 }
 
-.navbar-nav .nav-item {
-    margin-left: 10px;
-    margin-right: 10px;
+.navbar .container {
+    padding: 10px 15px;
+    border-radius: 5px;
 }
 
-.navbar img {
-    width: 40px;
-    height: 40px;
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #e0e0e0;
+}
+
+.navbar-brand:hover {
+    color: #e0e0e0;
+}
+
+.navbar-nav .nav-link {
+    color: #f2f2f2;
+    font-size: 1.1rem;
+    margin-right: 15px;
+    transition: color 0.3s ease-in-out;
+    margin-left: 1rem;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #a2c281;
 }
 
 /* ========================
@@ -77,10 +123,11 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    color: #333;
+    color: #f5f5f5;
     padding: 0 20px;
     overflow: hidden;
-    background-color: #f8f9fa;
+    background-color: transparent;
+    z-index: 1;
 }
 
 .hero-section h1 {
@@ -88,8 +135,7 @@ body {
     font-weight: 600;
     font-size: 4rem;
     margin: 0;
-    opacity: 1;
-    color: #333;
+    color: #f5f5f5;
 }
 
 .hero-section p {
@@ -97,8 +143,7 @@ body {
     font-weight: 200;
     font-size: 1.5rem;
     margin-top: 5px;
-    opacity: 1;
-    color: #333;
+    color: #f5f5f5;
 }
 
 /* ========================
@@ -114,7 +159,7 @@ body {
 }
 
 /* ========================
-   Blog Cards Hover-Effekt
+   Blog Cards
    ======================== */
 .card {
     border: none;
@@ -125,12 +170,14 @@ body {
     display: flex;
     flex-direction: column;
     height: 100%;
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.6);
+    background-color: #1e1e1e;
+    z-index: 1;
 }
 
 .card:hover {
     transform: translateY(-10px) scale(1.02);
-    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
-    background-color: #f4f7f6;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.9);
 }
 
 .card-body {
@@ -138,52 +185,67 @@ body {
     flex-direction: column;
     flex-grow: 1;
     padding: 15px;
-    transition: background-color 0.3s ease;
-}
-
-.card:hover .card-body {
-    background-color: #f4f7f6;
 }
 
 .card-title {
     font-size: 1.25rem;
     font-weight: 600;
     margin-bottom: 10px;
-    color: #222;
-    transition: color 0.3s ease;
+    color: #ffffff;
 }
 
 .card-text {
     font-size: 1rem;
-    color: #555;
+    color: #d1d1d1;
     margin-bottom: 15px;
-    transition: color 0.3s ease;
-}
-
-.card:hover .card-title {
-    color: #354f52;
-}
-
-.card:hover .card-text {
-    color: #333;
 }
 
 .reading-time {
     font-size: 0.9rem;
-    color: #555;
+    color: #b0b0b0;
     margin-top: auto;
 }
 
 /* ========================
    Footer
    ======================== */
-footer {
-    background-color: #2f3e46;
-    color: #bbb;
-    text-align: center;
-    padding: 20px;
-    margin-top: auto;
-    font-size: 0.9rem;
+.footer {
+    background-color: transparent;
+    color: #f2f2f2;
+    padding: 2rem 0;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    z-index: 1;
+}
+
+.footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 200;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.footer-divider {
+    border: 0;
+    border-top: 2px solid #cccccc;
+    width: 90%;
+    margin-top: 2rem ;
+}
+
+.footer .social-links-container {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.footer .social-links-container img {
+    width: 40px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.footer .social-links-container img:hover {
+    transform: scale(1.1);
 }
 
 /* ========================
@@ -193,46 +255,53 @@ footer {
     max-width: 100%;
     margin: 0 auto;
     padding: 40px;
-    background-color: #ffffff;
+    background-color: #1e1e1e;
     border-radius: 10px;
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
     hyphens: auto;
     text-align: justify;
     line-height: 1.8;
+    color: #d1d1d1;
+    z-index: 1;
 }
 
-/* Überschriften im Artikel */
 #blog-content h1 {
     font-size: 2.5rem;
     margin-top: 0;
     text-align: left;
+    color: #f5f5f5;
 }
 
 #blog-content h2 {
     font-size: 2rem;
+    color: #e0e0e0;
 }
 
 #blog-content h3 {
     font-size: 1.5rem;
+    color: #d1d1d1;
 }
 
 #blog-content h4 {
     font-size: 1.25rem;
+    color: #bdbdbd;
 }
 
 #blog-content h5 {
     font-size: 1.1rem;
+    color: #aaaaaa;
 }
 
 #blog-content h6 {
     font-size: 1rem;
+    color: #999999;
 }
 
 #blog-content p,
 #blog-content li {
     margin-bottom: 20px;
     font-size: 1.1rem;
-    color: #555;
+    color: #d1d1d1;
 }
 
 #blog-content ul, #blog-content ol {
@@ -240,33 +309,33 @@ footer {
 }
 
 #blog-content blockquote {
-    background-color: #f0f0f0;
+    background-color: #292929;
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
+    color: #f5f5f5;
+    border-left: 5px solid #6a994e;
 }
 
 #blog-content a {
-    color: #4e73df;
+    color: #8ab4f8;
     text-decoration: none;
     transition: color 0.3s;
 }
 
 #blog-content a:hover {
-    color: #2c3e50;
+    color: #4e73df;
     text-decoration: underline;
 }
 
-/* Inline-Code im Artikel */
 #blog-content code {
-    background-color: #f8f9fa;
+    background-color: #2e2e2e;
     border-radius: 5px;
     padding: 2px 5px;
     font-family: 'Courier New', Courier, monospace;
-    color: #d9534f;
+    color: #ff7b72;
 }
 
-/* Bilder im Artikel */
 #blog-content img {
     width: 100%;
     max-height: 60vh;
@@ -283,6 +352,7 @@ footer {
     object-fit: contain;
     margin: 0 auto;
     max-height: none !important;
+    filter: invert(1);
 }
 
 /* ========================

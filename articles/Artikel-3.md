@@ -18,6 +18,8 @@ Das Social Businesses setzen im Gegensatz zu W.TEC auf ein nachhaltiges Geschäf
 
 W.TEC setzt sich dafür ein, mehr Chancen für Frauen und Mädchen durch Bildung in den Bereichen Technologie und MINT zu schaffen. W.TEC kooperiert mit Schulen, Unternehmen und NGOs, um Ressourcen und Fachwissen optimal zu nutzen und die Reichweite der Programme zu erweitern. Der Fokus liegt dabei auf praxisnahen Lernerfahrungen, um die Teilnehmerinnen auf eine erfolgreiche berufliche Zukunft im Technologiebereich vorzubereiten.
 
+---
+
 ### Referenzen
 
 <a id="Referenzen"></a>

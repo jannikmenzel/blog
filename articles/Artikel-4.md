@@ -28,6 +28,8 @@ Erstmals zu Beginn des 21. Jahrhunderts populär geworden, war Google seit jeher
 
 Wie sich der Trend KI Chatbots betreffend entwickeln wird, bleibt abzuwarten. Google veröffentlichte erst vor kurzem seinen KI-Sprachassistenten "Gemini Live" und auch OpenAI hält mit neueren, fortgeschritteneren Modellen weiter mit. Eines ist jedoch klar KI-basierte Chatbots wie ChatGPT haben das Potenzial, den Studienalltag nachhaltig zu verändern. Sie können uns nicht nur als intelligente Assistenten beim Lernen und Forschen unterstützen, sondern auch eine neue Ära der Wissensvermittlung einläuten. Der Schlüssel wird darin liegen, die Technologie geschickt und verantwortungsbewusst zu nutzen.
 
+---
+
 ### Passende Literatur- und Medienempfehlungen
 
 1. **Ein Algorithmus hat kein Taktgefühl** von Katharina Zweig
