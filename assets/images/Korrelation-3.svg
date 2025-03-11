@@ -1,5 +1,5 @@
-<svg height="310" width="600" xmlns="http://www.w3.org/2000/svg">
-    <rect fill="#fefefe" height="100%" width="100%"/>
+<svg height="350" width="600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 310">
+    <rect fill="#fefefe" x="0" y="-40" height="120%" width="100%"/>
     <path d="m70 256h460" stroke="#9f9f9f"/>
     <path d="m70 87h460v169h-460z" fill="#fefefe"/>
     <text font-family="'Helvetica Neue', Arial, sans-serif" font-size="22" font-weight="bold" text-anchor="middle"
