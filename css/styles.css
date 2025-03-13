@@ -255,7 +255,7 @@ body {
     max-width: 100%;
     margin: 0 auto;
     padding: 40px;
-    background-color: #1e1e1e;
+    background-color: #1e1e1e99;
     border-radius: 10px;
     box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
     hyphens: auto;
@@ -331,9 +331,12 @@ body {
 #blog-content code {
     background-color: #2e2e2e;
     border-radius: 5px;
-    padding: 2px 5px;
+    padding: 10px 20px;
     font-family: 'Courier New', Courier, monospace;
     color: #ff7b72;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
 }
 
 #blog-content img {
