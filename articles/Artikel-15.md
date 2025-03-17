@@ -16,7 +16,7 @@ Large Language Models (LLMs) wie GPT-4, DeepSeek oder Google Gemini sind beeindr
 
 Um zu verstehen, wie LLMs arbeiten, müssen wir zunächst erörtern, wie sie Texte verarbeiten. Statt Worte oder ganze Sätze als geschlossene Einheit zu betrachten, zerlegen sie diese in kleinere, bedeutungstragende Teile – sogenannte **Tokens**. Dabei kann ein Token ein ganzes Wort, ein Wortteil oder lediglich ein einzelnes Zeichen beinhalten. Ein Beispiel: Der Satz „Die Sonne geht im Westen unter“ wird in die folgenden Tokens zerlegt:
 
-	“Die”, “Sonne”, “geht”, “im”, “Westen”, “unter”
+	“Die” “Sonne” “geht” “im” “Westen” “unter”
 
 Diese Tokens werden anschließend durch ein Verfahren namens **Embedding** in numerische Vektoren umgewandelt. Ein Embedding ist eine mathematische Darstellung eines Tokens, die seine Bedeutung im Kontext des Textes widerspiegelt. Man kann sich diesen Prozess als das Anordnen von Punkten in einem hochdimensionalen Raum vorstellen, wobei semantisch ähnliche Tokens nahe beieinander liegen, sich also in Bedeutungsclustern sammeln. Das Token „Sonne“ liegt dabei beispielsweise in der Nähe von Tokens wie „Licht“, „Tag“ oder „Himmel“.
 
@@ -44,7 +44,7 @@ Durch Milliarden solcher Vorhersagen entwickelt das Modell ein tiefes Verständn
 
 Es ist wichtig zu betonen, dass LLMs keine Vorkenntnisse, Logik oder gesunden Menschenverstand besitzen. Sie treffen Entscheidungen auf Basis der Daten, mit denen sie trainiert wurden. Wenn zum Beispiel wichtige Informationen über eine bekannte Person wie Albert Einstein fehlen, kann das Modell falsche oder ungenaue Verbindungen herstellen. In einem solchen Fall könnte eine Vorhersage wie folgt aussehen:
 
-    Eingabe: "Albert Einstein war ein berühmter …"
+    Eingabe: "Albert Einstein war ein …"
     
     Vorhersage: "Koch."
 
