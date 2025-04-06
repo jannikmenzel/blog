@@ -34,4 +34,4 @@ Mit der enormen Macht, die Zero-Knowledge Proofs bieten, geht auch eine erheblic
 
 <a id="Referenzen"></a>
 
-1. [Computer Scientist Explains One Concept in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=fOGdb1CTu5c)
+1. [Computer Scientist Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fOGdb1CTu5c) von WIRED

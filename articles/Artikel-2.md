@@ -30,4 +30,4 @@ Der Druck von Lebensmitteln stellt eine enorme Chance in puncto Nachhaltigkeit d
 
 <a id="Referenzen"></a>
 
-1. [Silvina Zabala-Travers (2021). Biomodeling and 3D printing: A novel radiology subspecialty"](https://www.sciencedirect.com/science/article/pii/S2666964121000333)
+1. [Silvina Zabala-Travers (2021). "Biomodeling and 3D printing: A novel radiology subspecialty"](https://www.sciencedirect.com/science/article/pii/S2666964121000333)
