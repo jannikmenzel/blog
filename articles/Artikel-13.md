@@ -1,6 +1,6 @@
 ![Blogbild](/assets/cover-images/Artikel-13.jpg)
 
-# Wer ist Cleo? - Der Ursprung eines Mathematik-Mythos
+# Wer ist Cleo? – Der Ursprung eines Mathematik-Mythos
 
 **Veröffentlicht am: 01. März 2025**
 

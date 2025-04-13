@@ -48,7 +48,7 @@ Es ist wichtig zu betonen, dass LLMs keine Vorkenntnisse, Logik oder gesunden Me
     
     Vorhersage: "Koch."
 
-In diesem Fall wählte das LLM **Koch** als die am wahrscheinlichsten zutreffende Fortsetzung des Satzes. Aus einem grammatikalischen Standpunkt gesehen, ist das auch richtig - lediglich die Assoziation der Person Albert Einstein fehlte in der Evaluation.
+In diesem Fall wählte das LLM **Koch** als die am wahrscheinlichsten zutreffende Fortsetzung des Satzes. Aus einem grammatikalischen Standpunkt gesehen, ist das auch richtig – lediglich die Assoziation der Person Albert Einstein fehlte in der Evaluation.
 
 ---
 

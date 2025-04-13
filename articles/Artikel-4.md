@@ -1,6 +1,6 @@
 ![Blogbild](/assets/cover-images/Artikel-4.jpg)
 
-# Generation ChatGPT - Wie KI unser Studium verändert
+# Generation ChatGPT – Wie KI unser Studium verändert
 
 **Veröffentlicht am: 28. Januar 2025**
 
@@ -8,7 +8,7 @@
 
 ### Generation ChatGPT
 
-ChatGPT - der persönliche Assistent in allen Bereichen unseres Lebens ist heutzutage kaum mehr aus dem Alltag wegzudenken. Egal ob als Response auf nervige E-Mails, persönlicher Lernassistent, Studienberatung oder Antwortorakel auf die Frage, was es denn heute Abend zu essen geben wird - Der Chatbot von OpenAI ist die Lösung für viele unserer alltäglichen Probleme. So sehen es viele Studentinnen und Studenten, mich eingeschlossen. Aber wie wirkt sich dieser Lebenswandel auf den Studienalltag aus. Welche Auswirkungen hat der Zugang zu LLMs von überall und jederzeit und wie verändert er unsere Art zu leben und zu lernen. Diese und noch viele weitere Fragen möchte ich im Folgenden erörtern.
+ChatGPT – der persönliche Assistent in allen Bereichen unseres Lebens ist heutzutage kaum mehr aus dem Alltag wegzudenken. Egal ob als Response auf nervige E-Mails, persönlicher Lernassistent, Studienberatung oder Antwortorakel auf die Frage, was es denn heute Abend zu essen geben wird – der Chatbot von OpenAI ist die Lösung für viele unserer alltäglichen Probleme. So sehen es viele Studentinnen und Studenten, mich eingeschlossen. Aber wie wirkt sich dieser Lebenswandel auf den Studienalltag aus. Welche Auswirkungen hat der Zugang zu LLMs von überall und jederzeit und wie verändert er unsere Art zu leben und zu lernen. Diese und noch viele weitere Fragen möchte ich im Folgenden erörtern.
 
 ---
 

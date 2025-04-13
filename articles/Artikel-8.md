@@ -24,7 +24,7 @@ Besonders spannend wird es, wenn man nach Strategien zur Lösung dieses Problems
 
 ---
 
-### Tit for Tat - The winning strategy
+### Tit for Tat – The winning strategy
 
 Im Folgenden wollen wir die Dynamiken des Experiments näher betrachten und einige lehrreiche Erkenntnisse daraus gewinnen. Doch zuvor ein wichtiger Hinweis: Im Gegensatz zum klassischen Prisoner’s Dilemma wurden die Algorithmen nicht nur einmalig vor die Entscheidung gestellt, sondern mussten über eine festgelegte Anzahl von Iterationen hinweg die bestmögliche Strategie entwickeln. Es gilt: Bei einmaligem Kontakt ist Verrat fast immer die effizientere Strategie. Axelrod schrieb dazu in seinem Buch: "What makes it possible for cooperation to emerge is the fact that the players might meet again." [[1]](#Referenzen) Betrachten wir nun einige der im Experiment getesteten Strategien:
 

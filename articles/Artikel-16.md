@@ -1,6 +1,6 @@
 ![Blogbild](/assets/cover-images/Artikel-16.jpg)
 
-# Schach - Der König der Spiele
+# Schach – Der König der Spiele
 
 **Veröffentlicht am: 06. April 2025**
 
@@ -28,7 +28,7 @@ Dennoch dürfen wir eines nicht vergessen. Schach ist ein Spiel, dass wir Mensch
 
 Den Grundstein für diese Entwicklung legte der Schachcomputer Deep Blue, als er 1997 in einem spektakulären Duell gegen den amtierenden Weltmeister Garry Kasparov siegte. Dieses historische Ereignis markierte einen Wendepunkt in der Geschichte des Schachs, da es erstmals einem Computer gelang, die weltbesten menschlichen Spieler zu besiegen. Im Anschluss daran folgten Stockfish, AlphaZero und viele weitere Schach-Engines, die Deep Blue in vielerlei Hinsicht übertrafen und die Grenzen der künstlichen Intelligenz im Schach neu definierten.
 
-In der Theorie gilt: Schach ist ein gelöstes Spiel. Das bedeutet, dass in jeder erdenklichen Stellung ein objektiv bester Zug existiert – ein Zug, der den größtmöglichen Vorteil verschafft oder den Ausgang des Spiels bestimmt. In der Praxis jedoch ist Schach noch lange nicht vollständig gelöst, da die Zahl der möglichen Szenarien mit jedem Zug exponentiell steigt. Schon zu Beginn des Spiels existieren 20 mögliche Züge für Weiß. Die Antwort des schwarzen Spielers erhöht diese Zahl auf 400 mögliche Variationen. Mit jedem weiteren Zug wird diese verdoppelt – nach 10 Zügen sprechen wir bereits von über 121 Millionen möglichen Partien. Kein Supercomputer der Welt ist in der Lage, diese enorme Menge an Rechenleistung aufzubringen. Zur Veranschaulichung dieses Problems führte Claude Shannon die sogenannte Shannon-Zahl ein. Sie schätzt die Anzahl der möglichen Schachstellungen auf etwa $10^{120}$ - das ist eine 1, gefolgt von 120 Nullen. Diese Zahl übersteigt, kaum vorzustellen, sogar die geschätzte Anzahl der Atome im beobachtbaren Universum bei weitem. (für Interessierte: Diese beträgt ungefähr $10^{80}$)
+In der Theorie gilt: Schach ist ein gelöstes Spiel. Das bedeutet, dass in jeder erdenklichen Stellung ein objektiv bester Zug existiert – ein Zug, der den größtmöglichen Vorteil verschafft oder den Ausgang des Spiels bestimmt. In der Praxis jedoch ist Schach noch lange nicht vollständig gelöst, da die Zahl der möglichen Szenarien mit jedem Zug exponentiell steigt. Schon zu Beginn des Spiels existieren 20 mögliche Züge für Weiß. Die Antwort des schwarzen Spielers erhöht diese Zahl auf 400 mögliche Variationen. Mit jedem weiteren Zug wird diese verdoppelt – nach 10 Zügen sprechen wir bereits von über 121 Millionen möglichen Partien. Kein Supercomputer der Welt ist in der Lage, diese enorme Menge an Rechenleistung aufzubringen. Zur Veranschaulichung dieses Problems führte Claude Shannon die sogenannte Shannon-Zahl ein. Sie schätzt die Anzahl der möglichen Schachstellungen auf etwa $10^{120}$ – das ist eine 1, gefolgt von 120 Nullen. Diese Zahl übersteigt, kaum vorzustellen, sogar die geschätzte Anzahl der Atome im beobachtbaren Universum bei weitem. (für Interessierte: Diese beträgt ungefähr $10^{80}$)
 
 ---
 

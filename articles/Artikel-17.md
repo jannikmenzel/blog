@@ -8,7 +8,7 @@
 
 ### I have a dream
 
-Barack Obama, John F. Kennedy und Martin Luther King - sie alle sind bedeutende Persönlichkeiten, die uns nicht zuletzt aufgrund ihrer herausragenden rhetorischen Fähigkeiten in Erinnerung bleiben. Ihre Reden sind bis heute unvergessen. Es waren weit mehr als nur treffende Worte - Es waren Botschaften der Hoffnung, des Wandels und der Gerechtigkeit.
+Barack Obama, John F. Kennedy und Martin Luther King – sie alle sind bedeutende Persönlichkeiten, die uns nicht zuletzt aufgrund ihrer herausragenden rhetorischen Fähigkeiten in Erinnerung bleiben. Ihre Reden sind bis heute unvergessen. Es waren weit mehr als nur treffende Worte – Es waren Botschaften der Hoffnung, des Wandels und der Gerechtigkeit.
 
 Es ist kein Geheimnis: Wer es versteht, sich überzeugend auszudrücken, dem eröffnen sich im Leben zahlreiche Möglichkeiten. Rhetorik ist nicht nur ein Werkzeug, sondern eine mächtige Waffe, die uns Wege ebnen, Menschen beeinflussen und Visionen verwirklichen kann.
 

@@ -6,7 +6,7 @@
 
 ---
 
-### 3x+1 - Das simpelste Problem, an dem die Menschheit scheitert
+### 3x+1 – Das simpelste Problem, an dem die Menschheit scheitert
 
 Unter Mathematikern gibt es eine ungeschriebene Regel, die angehende Wissenschaftler beherzigen sollten, wenn sie es in dieser Königsdisziplin wirklich zu etwas bringen wollen. Ein warnender Rat, den erfahrene Experten immer wieder an die nächste Generation weitergeben: „Halte dich fern von 3x+1.“
 
