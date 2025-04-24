@@ -16,7 +16,7 @@ Ein sonniger Morgen in Athen. Ich sitze in einem kleinen, von Olivenbäumen umsc
 
 **Ich**: "Und doch scheint das Sichtbare so real, so unmittelbar. Warum also der Blick darüber hinaus, wenn das Greifbare direkt vor mir liegt?"
 
-**Platon**: "Weil dein Geist mehr ist als dein Auge. Du hungerst nach Wahrheit, nicht nur nach Brot. Der Mensch ist ein gefangener, er sitz in einer Höhle und betrachtet lediglich die Schatten – das Abbild der **Ideenwelt**. Der Philosoph jedoch befreit sich von den Ketten der Ungewissheit, schreitet aus der Höhle hinaus und erblickt die Sonne, die den Schatten wirft."
+**Platon**: "Weil dein Geist mehr ist als dein Auge. Du hungerst nach Wahrheit, nicht nur nach Brot. Der Mensch ist ein Gefangener, er sitzt in einer Höhle und betrachtet lediglich die Schatten – das Abbild der **Ideenwelt**. Der Philosoph jedoch befreit sich von den Ketten der Ungewissheit, schreitet aus der Höhle hinaus und erblickt die Sonne, die den Schatten wirft."
 
 Ein Moment der Stille. Der Wind streicht durch die Blätter, als hätte die Natur in ihrem Sein kurz innegehalten. Ich nippe an meinem Kaffee und frage mich, ob die Welt um mich herum je wieder bloß Dinge sein können – oder ob ich in allem nun das Echo einer unsichtbaren Wahrheit vernehme.
 
