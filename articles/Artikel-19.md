@@ -96,7 +96,7 @@ Die Arbeitswoche neigt sich dem Ende zu und in den Restaurants Frankfurts sieht 
 
 **Schopenhauer**: "Was ist das Leben anderes als ein endloses Streben nach dem, was wir nicht haben – gefolgt von noch mehr Enttäuschung, wenn wir es dann schließlich unser Eigen nennen dürfen? Der Mensch ist ein Wesen des Mangels. Und was ihn antreibt, ist kein edles Streben, sondern ein blinder, unersättlicher Wille – der ihm nicht einmal eigen ist."
 
-**Ich**: "Doch auch Sie Herr Schopenhauer müssen zugeben, dass es Momente gab, in denen Sie dem Leiden entfliehen konnten."
+**Ich**: "Doch auch Sie, Herr Schopenhauer, müssen zugeben, dass es Momente gab, in denen Sie dem Leiden entfliehen konnten."
 
 **Schopenhauer**: "Einzig die Askese bemächtigt uns der Flucht vor unserem Leiden. Durch das Betrachten der Kunst – besonders jener höchsten Form, der Musik entkommen wir dem Zwang des Willens, auch wenn nur für einen kurzen Moment."
 
@@ -116,7 +116,7 @@ Es ist später Nachmittag, als ich in einem kleinen Café in den Bergen von Sils
 
 **Ich**: "Viele zitieren Sie, wenige verstehen Sie. Was genau bedeutet es, wenn Sie sagen: Gott ist tot?"
 
-**Nietzsche**: "Ein Missverständnis, das die Jahrhunderte überlebt hat. Es ist keineswegs die Rede vom Tot des Wesens Gottes – der Glaube ist das, was uns Menschen verlassen hat, der Glaube ist gestorben. Die Idee Gottes – als höchstes Prinzip, als Maßstab für Gut und Böse – sie ist tot. Getötet durch Aufklärung, Wissenschaft und Zweifel."
+**Nietzsche**: "Ein Missverständnis, das die Jahrhunderte überlebt hat. Es ist keineswegs die Rede vom Tot des Wesens Gottes – der Glaube ist, was uns Menschen verlassen hat, der Glaube ist gestorben. Die Idee Gottes – als höchstes Prinzip, als Maßstab für Gut und Böse – sie ist tot. Getötet durch Aufklärung, Wissenschaft und Zweifel."
 
 **Ich**: "Aber wenn es keinen Gott mehr gibt, was bleibt dann? Wer sagt uns, was richtig und falsch ist?"
 
