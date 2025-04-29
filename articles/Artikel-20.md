@@ -14,7 +14,7 @@ Dieser Artikel handelt von der gefährlichsten bekannten Chemiewaffe – entwick
 
 ### Substanz
 
-Genau genommen handelt es sich bei Nowitschok nicht um ein einzelnes Toxin, sondern um eine ganze Gruppe von Nervengiften, die in den geheimen Labors der ehemaligen Sowjetunion – und später Russlands – im Rahmen des sogenannten Foliant-Programms entwickelt wurden. Diese chemischen Waffen wurden mit einer klaren Absicht erschaffen, dem militärische Einsatz. Ihre Gefährlichkeit und Raffinesse machen sie zu einer der größten Bedrohungen der modernen Welt. Bis heute gelten sie als die tödlichsten Nervenkampfstoffe, die je entwickelt wurden.
+Genau genommen handelt es sich bei Nowitschok nicht um ein einzelnes Toxin, sondern um eine ganze Gruppe von Nervengiften, die in den geheimen Laboren der ehemaligen Sowjetunion – und später Russlands – im Rahmen des sogenannten Foliant-Programms entwickelt wurden. Diese chemischen Waffen wurden mit einer klaren Absicht erschaffen, dem militärische Einsatz. Ihre Gefährlichkeit und Raffinesse machen sie zu einer der größten Bedrohungen der modernen Welt. Bis heute gelten sie als die tödlichsten Nervenkampfstoffe, die je entwickelt wurden.
 
 Chemisch betrachtet sind die Nowitschok-Toxine nichts anderes als organische Phosphorsäureester – eine Gruppe von Substanzen, die sowohl in flüssiger Form als auch durch einen Trägerstoff in fester Form vorliegen können. Ihre Struktur mag auf den ersten Blick abstrakt erscheinen, doch sie tragen eine unheimliche Präzision in sich, die im Fall einer Exposition den Körper in einen nahezu hilflosen Zustand versetzen kann.
 
