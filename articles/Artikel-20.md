@@ -12,6 +12,8 @@ Am 20. August 2020 wurde der russische Politiker und Dissident Alexej Nawalny mi
 
 Dieser Artikel handelt von der gefährlichsten bekannten Chemiewaffe – entwickelt mit dem Ziel, unsichtbar, schnell und nahezu unausweichlich zu töten. Was macht Nowitschok so besonders, so heimtückisch in seiner Wirkung? Welche Symptome treten bei einer Vergiftung auf, und gibt es überhaupt Hoffnung auf Heilung, wenn man mit Nowitschok in Berührung kommt? Die Antworten sind ebenso erschreckend wie faszinierend – und sie rücken die Geschichten der Opfer in ein noch düstereres Licht.
 
+---
+
 ### Substanz
 
 Genau genommen handelt es sich bei Nowitschok nicht um ein einzelnes Toxin, sondern um eine ganze Gruppe von Nervengiften, die in den geheimen Laboren der ehemaligen Sowjetunion – und später Russlands – im Rahmen des sogenannten Foliant-Programms entwickelt wurden. Diese chemischen Waffen wurden mit einer klaren Absicht erschaffen, dem militärische Einsatz. Ihre Gefährlichkeit und Raffinesse machen sie zu einer der größten Bedrohungen der modernen Welt. Bis heute gelten sie als die tödlichsten Nervenkampfstoffe, die je entwickelt wurden.
@@ -22,6 +24,8 @@ Die Wissenschaft unterteilt Nervenkampfstoffe in drei Hauptkategorien: die G-Rei
 
 Die Geheimnisse rund um die Strukturformeln dieser gefährlichen Substanzen waren lange Zeit gut bewahrt. Erst vor wenigen Jahren gewährte der russische Wissenschaftler Will Mirzajanov der Welt einen Einblick in das, was zuvor als streng geheim galt. Doch auch heute bleiben viele Details über die genaue Zusammensetzung der Nowitschok-Gifte im Schatten, ein letzter mysteriöser Schleier, der das wahre Ausmaß ihrer Bedrohung verhüllt.
 
+---
+
 ### Exposition
 
 Was Nawalny und Skripal in den ersten Minuten nach der Vergiftung erlebten, lässt sich aus medizinischer Sicht genau beschreiben – auch wenn das persönliche Empfinden wohl kaum in Worte zu fassen ist.
@@ -30,6 +34,8 @@ Bei Kontakt mit dem Toxin sorgt Nowitschok dafür, dass die Reizübertragung im 
 
 Die Folgen dieser Störung manifestieren sich durch eine Vielzahl von Symptomen, die sich im Körper wie ein bedrohliches Symptomgewitter entfalten. Zu den ersten Anzeichen gehören unter anderem übermäßiger Speichelfluss (Salivation), eine extreme Verengung der Pupillen (Miosis), die mit Sehstörungen einhergeht, und ein gefährlich verlangsamter Puls (Bradykardie), der zu einem Herzversagen führen kann. Auch Atemnot und Atemlähmung zählen zu den ersten Anzeichen. Bauchschmerzen, Schweißausbrüche, Übelkeit und Erbrechen begleiten diese alarmierende Symptomatik. Schließlich folgen die unaufhaltsamen Muskelkontraktionen, die in schmerzhaften Krämpfen gipfeln und den Körper in einen Zustand totaler Lähmung versetzen.
 
+---
+
 ### Therapie
 
 Es gibt jedoch einen Hoffnungsschimmer: Nowitschok ist behandelbar – vorausgesetzt, die richtigen Maßnahmen werden schnell und gezielt ergriffen. Wie bei jeder Vergiftung steht auch hier zu Beginn der Therapie das schnellstmögliche Beenden der Exposition gegenüber dem Gift. Nur wenn der Kontakt zum Toxin sofort unterbrochen wird, können die weiteren Schritte zur Rettung des Patienten erfolgreich eingeleitet werden. Die Grundlage der Behandlung bilden dabei die beiden Antitoxine Atropin und Obidoxin.
@@ -37,6 +43,8 @@ Es gibt jedoch einen Hoffnungsschimmer: Nowitschok ist behandelbar – vorausges
 Atropin wirkt dabei als direkter Gegenspieler zu Nowitschok: Es blockiert die Wirkung des Parasympathikus und hemmt damit die übermäßige Aktivierung, die durch das Toxin hervorgerufen wird. Obidoxin hingegen greift auf eine andere Ebene ein – es stellt die Aktivität der Acetylcholinesterase wieder her, das Enzym, das durch Nowitschok blockiert wird. In ihrer Kombination entfalten die beiden Substanzen ihre volle Wirkung und bieten damit den effektivsten bekannten Ansatz zur Bekämpfung einer Nowitschok-Vergiftung. Darüber hinaus wird zur Linderung der Krämpfe und zur Bekämpfung der Muskelverspannungen ein krampflösendes Mittel wie Diazepam eingesetzt, um die quälenden Symptome zu lindern und den Patienten zu stabilisieren.
 
 Bei Alexej Nawalny konnte genau diese Kombination eine akute Todesfolge verhindern – ein medizinisches Wunder, das er jedoch mit anhaltenden Spätfolgen bezahlen musste. Auch Skripal überlebte, doch nicht ohne langfristige neurologische Schäden.
+
+---
 
 ### Resolution
 
