@@ -79,3 +79,4 @@ Rhetorik ist keine angeborene Fähigkeit, keine Gabe oder Talent, sondern eine K
 1. **Die Macht der Rhetorik** von Roman Braun
 2. **Meisterkurs Rhetorik** von Benedikt Held
 3. **„I have a dream“** von Johan Schloemann
+4. **How to Improvise Like Dr. Martin Luther King Jr** (Cautionary Tales Podcast Episode 11)
