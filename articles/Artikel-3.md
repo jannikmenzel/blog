@@ -1,3 +1,7 @@
+---
+title: "mit computerkursen in ein besseres leben"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-3.jpg)
 
 # Mit Computerkursen in ein besseres Leben
@@ -21,7 +25,5 @@ W.TEC setzt sich dafür ein, mehr Chancen für Frauen und Mädchen durch Bildung
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Matthias Schäfer und Anabel Ternès. (2015) Startups international: Gründergeschichten rund um den Globus](https://link.springer.com/book/10.1007/978-3-658-21722-8)

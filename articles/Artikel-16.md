@@ -1,3 +1,7 @@
+---
+title: "schach der koenig der spiele"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-16.jpg)
 
 # Schach – Der König der Spiele
@@ -41,7 +45,5 @@ Doch trotz der Fortschritte der modernen Schach-Engines, die in der Lage sind, M
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. [Why AI Chess Bots Are Virtually Unbeatable (ft. GothamChess)](https://www.youtube.com/watch?v=CdFLEfRr3Qk) von WIRED

@@ -1,3 +1,7 @@
+---
+title: "nowitschok anatomie einer unsichtbaren waffe"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-20.jpg)
 
 # Nowitschok: Anatomie einer unsichtbaren Waffe
@@ -55,7 +59,5 @@ All das verdeutlicht, wie tödlich präzise und unberechenbar diese Substanz ist
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Nawalny** von Jan Matti Dollbaum, Morvan Lallouet & Ben Noble

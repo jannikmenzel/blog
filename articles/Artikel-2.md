@@ -1,3 +1,7 @@
+---
+title: "eine leber aus dem drucker"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-2.jpg)
 
 # Eine Leber aus dem Drucker
@@ -27,7 +31,5 @@ Der Druck von Lebensmitteln stellt eine enorme Chance in puncto Nachhaltigkeit d
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Silvina Zabala-Travers (2021). "Biomodeling and 3D printing: A novel radiology subspecialty"](https://www.sciencedirect.com/science/article/pii/S2666964121000333)

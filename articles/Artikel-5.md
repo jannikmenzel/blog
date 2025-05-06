@@ -1,3 +1,7 @@
+---
+title: "die gefaehrlichste ransomware der welt"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-5.jpg)
 
 # Die gefährlichste Ransomware der Welt
@@ -67,8 +71,6 @@ Während meiner Recherche habe ich mich hauptsächlich auf die in der technische
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Wired (2018). “NotPetya: How a Cyberattack on Ukraine Spread Around the World.”](https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/)
 2. [Bundesamt für Sicherheit in der Informationstechnik (BSI) (2022). “Ransomware: Bedrohung für Unternehmen und Verbraucher.”](https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Cyber-Sicherheitslage/Methoden-der-Cyber-Kriminalitaet/Schadprogramme/Ransomware/ransomware_node.html)

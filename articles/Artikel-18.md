@@ -1,3 +1,7 @@
+---
+title: "das geschaeft mit dem lebensende"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-18.jpg)
 
 # Das Geschäft mit dem Lebensende
@@ -54,8 +58,6 @@ Der Tod darf längst kein Tabuthema mehr sein. Indem wir ihn nicht länger ausbl
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Bevor ich jetzt gehe** von Paul Kalanithi
 2. **Sterben** von Matthias Gockel

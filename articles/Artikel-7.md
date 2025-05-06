@@ -1,3 +1,7 @@
+---
+title: "die macht des storytellings im alltag"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-7.jpg)
 
 # Die Macht des Storytellings im Alltag

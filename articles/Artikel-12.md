@@ -1,3 +1,7 @@
+---
+title: "belohnt gebremst gelenkt die unsichtbare macht der feedback-loops"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-12.jpg)
 
 # Belohnt, gebremst, gelenkt – Die unsichtbare Macht der Feedback-Loops
@@ -27,8 +31,6 @@ Abschließend möchte ich noch einmal die Bedeutung des bewussten Gestaltens eig
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Dickie Bush: Feedback Loops** (Creative Elements Podcast Episode 20)
 2. **Kim Scott: The Future of Feedback** (Brave New Work Podcast Episode 2)

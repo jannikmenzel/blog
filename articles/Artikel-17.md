@@ -1,3 +1,7 @@
+---
+title: "rhetorik und die kunst gehoer zu finden"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-17.jpg)
 
 # Rhetorik und die Kunst, Gehör zu finden
@@ -73,8 +77,6 @@ Rhetorik ist keine angeborene Fähigkeit, keine Gabe oder Talent, sondern eine K
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Die Macht der Rhetorik** von Roman Braun
 2. **Meisterkurs Rhetorik** von Benedikt Held

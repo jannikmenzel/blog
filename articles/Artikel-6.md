@@ -1,3 +1,7 @@
+---
+title: "wie ein second brain mein lernen revolutioniert hat"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-6.jpg)
 
 # Wie ein Second Brain mein Lernen revolutioniert hat

@@ -1,3 +1,7 @@
+---
+title: "zero knowledge proof ich weiss etwas, was du nicht weisst"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-11.jpg)
 
 # Zero Knowledge Proof – Ich weiß etwas, was du nicht weißt
@@ -31,7 +35,5 @@ Mit der enormen Macht, die Zero-Knowledge Proofs bieten, geht auch eine erheblic
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. [Computer Scientist Explains One Concept in 5 Levels of Difficulty](https://www.youtube.com/watch?v=fOGdb1CTu5c) von WIRED

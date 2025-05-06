@@ -1,3 +1,7 @@
+---
+title: "software is eating the world"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-1.jpg)
 
 # Software is eating the World
@@ -29,7 +33,5 @@ In einer Welt, in der Software zunehmend im Mittelpunkt der globalen Wirtschaft 
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Marc Andreessen. (2011) "Why Software Is Eating the World"](https://a16z.com/why-software-is-eating-the-world/)

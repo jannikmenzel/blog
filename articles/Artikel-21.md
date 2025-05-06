@@ -1,3 +1,7 @@
+---
+title: "perfektionismus ein manifest"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-21.jpg)
 
 # Perfektionismus – ein Manifest
@@ -25,8 +29,6 @@ Vielleicht ist das ehrlichste, was ich über Perfektionismus sagen kann: Er läs
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Love for Imperfect Things** von Haemin Sunim
 2. **Die Kunst des perfekten Scheiterns** von Christian Rieck

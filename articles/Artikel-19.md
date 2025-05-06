@@ -1,3 +1,7 @@
+---
+title: "gedanken die die welt bewegten philosophische gespraeche mit den groeßten denkern der geschichte"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-19.jpg)
 
 # Gedanken, die die Welt bewegten – philosophische Gespräche mit den größten Denkern der Geschichte
@@ -155,8 +159,6 @@ Ihre Stimme bleibt ruhig, klar, unnachgiebig. Ein philosophischer Sturm im Gewan
 ---
 
 ### Passende Literatur- und Medienempfehlungen
-
-<a id="Referenzen"></a>
 
 1. **Politik** von Aristoteles
 2. **Der Staat** von Platon

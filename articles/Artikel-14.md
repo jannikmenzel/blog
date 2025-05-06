@@ -1,3 +1,7 @@
+---
+title: "lying with statistics wie uns zahlen taeuschen koennen"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-14.jpg)
 
 # Lying with Statistics – Wie uns Zahlen täuschen können
@@ -51,7 +55,5 @@ Die Welt der Statistik bietet uns ein mächtiges Werkzeug zur Analyse und Interp
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Tyler Vigen. Spurious correlations](https://tylervigen.com/)

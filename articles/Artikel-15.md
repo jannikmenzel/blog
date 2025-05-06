@@ -1,3 +1,7 @@
+---
+title: "wie lernen chatbots das sprechen"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-15.jpg)
 
 # Wie lernen Chatbots das Sprechen?
@@ -65,8 +69,6 @@ Die Entwicklung von Large Language Models zeigt, wie weit die KI-Technologie ber
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. [Transformers (how LLMs work) explained visually | DL5](https://www.youtube.com/watch?v=wjZofJX0v4M) von 3Blue1Brown
 2. [ScadsAI](https://scads.ai/)

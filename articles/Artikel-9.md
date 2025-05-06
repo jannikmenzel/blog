@@ -1,3 +1,7 @@
+---
+title: "systeme schaffen, statt ziele zu verfolgen"
+---
+
 ![Blogbild](/assets/cover-images/Artikel-9.jpg)
 
 # Systeme schaffen, statt Ziele zu verfolgen
@@ -37,8 +41,6 @@ Es ist wichtig, sich bewusst zu machen, dass Rückschläge Teil des Prozesses si
 ---
 
 ### Referenzen
-
-<a id="Referenzen"></a>
 
 1. **Atomic Habits** von James Clear
 2. **Creator Science** Podcast von Jay Clouse
