@@ -1,5 +1,5 @@
 ---
-title: "systeme schaffen, statt ziele zu verfolgen"
+title: "systeme schaffen statt ziele zu verfolgen"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-9.jpg)
