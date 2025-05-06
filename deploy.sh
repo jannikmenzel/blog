@@ -27,7 +27,7 @@ for md_file in "$SOURCE_DIR"/*.md; do
 
     echo "Konvertiere $md_file -> $output_file"
 
-    sed 's/!\[\([^]]*\)\](\([^)]*\))/<img src="\2" alt="\1">/g' "$md_file" > "${md_file}.nofig.md"
+    sed 's/!\[\([^]]*\)\](\([^)]*\))/<img src="\/blog\2" alt="\1">/g' "$md_file" > "${md_file}.nofig.md"
 
     content=$(pandoc "${md_file}.nofig.md" --mathjax)
 
