@@ -15,7 +15,8 @@ for md_file in "$SOURCE_DIR"/*.md; do
     title=$(grep -m 1 '^title:' "$md_file" | sed 's/title: "\(.*\)"/\1/')
 
     if [ -z "$title" ]; then
-        title=$(basename "$md_file" .md)
+        echo "Kein Titel gefunden, überspringe $md_file"
+        continue
     fi
 
     title=$(echo "$title" | sed 's/^[[:space:]]*//;s/[[:space:]]*$//')

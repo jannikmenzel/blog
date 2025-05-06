@@ -51,5 +51,3 @@
 ### Passende Literatur- und Medienempfehlungen
 
 1. **Es lebe der Generalist!** von David Epstein
-
-Hey
