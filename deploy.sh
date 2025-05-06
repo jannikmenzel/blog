@@ -30,6 +30,7 @@ for md_file in "$SOURCE_DIR"/*.md; do
     sed 's/!\[\([^]]*\)\](\([^)]*\))/<img src="\/blog\2" alt="\1">/g' "$md_file" > "${md_file}.nofig.md"
 
     content=$(pandoc "${md_file}.nofig.md" --mathjax)
+    content=$(echo "$content" | sed 's/<h3 id="referenzen">Referenzen<\/h3>/<h3 id="Referenzen">Referenzen<\/h3>/g')
 
     sed "/{{content}}/{
         s/{{content}}//g
