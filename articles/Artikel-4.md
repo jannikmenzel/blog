@@ -1,5 +1,5 @@
 ---
-title: "generation chatgpt wie ki unser studium veraendert"
+title: "generation chatgpt"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-4.jpg)

@@ -1,5 +1,5 @@
 ---
-title: "der tanz der zahlen die collatz-vermutung entschluesseln"
+title: "die collatz-vermutung"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-10.jpg)

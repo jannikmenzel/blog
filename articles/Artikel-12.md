@@ -1,5 +1,5 @@
 ---
-title: "belohnt gebremst gelenkt die unsichtbare macht der feedback-loops"
+title: "die unsichtbare macht der feedback-loops"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-12.jpg)

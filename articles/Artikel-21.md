@@ -1,5 +1,5 @@
 ---
-title: "perfektionismus ein manifest"
+title: "perfektionismus"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-21.jpg)

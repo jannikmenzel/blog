@@ -1,5 +1,5 @@
 ---
-title: "wie ein second brain mein lernen revolutioniert hat"
+title: "second brain"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-6.jpg)

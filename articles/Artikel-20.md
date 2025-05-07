@@ -1,5 +1,5 @@
 ---
-title: "nowitschok anatomie einer unsichtbaren waffe"
+title: "nowitschok"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-20.jpg)

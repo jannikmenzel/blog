@@ -1,5 +1,5 @@
 ---
-title: "die macht des storytellings im alltag"
+title: "storytelling im alltag"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-7.jpg)

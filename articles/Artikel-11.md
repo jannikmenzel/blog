@@ -1,5 +1,5 @@
 ---
-title: "zero knowledge proof ich weiss etwas, was du nicht weisst"
+title: "zero knowledge proof"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-11.jpg)

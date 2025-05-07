@@ -1,5 +1,5 @@
 ---
-title: "lying with statistics wie uns zahlen taeuschen koennen"
+title: "lying with statistics"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-14.jpg)

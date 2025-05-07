@@ -1,5 +1,5 @@
 ---
-title: "gedanken die die welt bewegten philosophische gespraeche mit den groeßten denkern der geschichte"
+title: "philosophische gespraeche"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-19.jpg)

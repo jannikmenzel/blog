@@ -1,5 +1,5 @@
 ---
-title: "wer ist cleo der ursprung eines mathematik-mythos"
+title: "wer ist cleo"
 ---
 
 ![Blogbild](/assets/cover-images/Artikel-13.jpg)

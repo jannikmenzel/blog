@@ -1,7 +1,7 @@
 #!/bin/bash
 
 SOURCE_DIR="./articles"
-OUTPUT_DIR="./pages"
+OUTPUT_DIR="./page"
 TEMPLATE="./artikel.html"
 
 if [ ! -f "$TEMPLATE" ]; then
